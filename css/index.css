@@ -2,22 +2,70 @@
 body {
     font-family: 'Quicksand', sans-serif;
     margin: 0px;
+    background-image: url(../static/background.jpg); 
+    background-size: cover;
+    color: #1E1E20;
 }
 
 #name_div {
+    width: 480px;
+    margin-left: 40px;
+    margin-top: 20px;
     font-size: 50px;
-    margin-top: 30px;
-    margin-left: 30px;
 }
 
 #background {
     max-width: 100%;
 }
 
-html {
-    background-image: url(/static/background.jpg    ) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+#center_div {
+    position: absolute;
+    height: 100%;
+    width: 960px;
+    left: 50%;
+    margin-left: -480px;
+    background-color: #D9CB9E;
+}
+
+#nav_div {
+    width: 880px;
+    margin-left: 40px;
+}
+
+
+
+#desc_div {
+    width: 680px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+    white-space: pre-wrap;
+}
+
+#profile_img {
+    width: 160px;
+    height: 240px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#footer_div {
+    position: absolute;
+    width: 960px;
+    background-color: rgb(30, 30, 30);
+    bottom: 0px;
+    height: 30px;
+}
+
+.link_div {
+    width: 175px;
+    height: 100%;
+    
+    border-left: 1px solid black;
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 6px;
+    margin: -1px;
 }
