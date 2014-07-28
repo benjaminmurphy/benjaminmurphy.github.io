@@ -4,7 +4,10 @@ body {
     padding-top: 70px;
     font-family: "Quicksand", sans-serif;
 }
+#blog_background_div {
+    background-color: white;
+}
 
-#about_background_div {
+.post_div {
     background-color: white;
 }

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: benjamin murphy
+layout: page
+title: the electron times
 ---
 
 <!DOCTYPE html>
@@ -9,16 +9,55 @@ title: benjamin murphy
 
     <head>
     
+        <meta charset="utf-8">
+        <meta name="author" content="Benjamin Murphy">
+        <meta name="description" content="">
+        
+        <title>benjamin murphy</title>
+        
+        <link href="../css/bootstrap.css" rel="stylesheet">
+        <link href="../css/blog_index.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'> 
+    
     </head>
     
     <body>
         
-        {% for post in site.posts %}
-        {{ post.date | date_to_string }}<br>
-        {{ post.title }}
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         
-        {% endfor %}
-    
+            <div class="container-fluid">
+            
+                <p class="navbar-text" id="title-text">benjamin murphy</p>
+                
+                <ul class="nav navbar-nav navbar-right">
+                
+                    <li><a href="/">home</a></li>
+                    <li><a href="/about">about</a></li>
+                    <li class="active"><a href="/blog">blog</a></li>
+                    <li><a href="#">photography</a></li>
+                    <li><a href="#">projects</a></li>
+                    <li><a href="#">contact</a></li>
+                    
+                </ul>
+            
+            </div>
+            
+        </nav>
+        <div class="container-fluid">
+            <div class="col-md-10 col-md-offset-1" id="blog_background_div">
+                
+                {% for post in site.posts %}
+                    <div class="post_div">
+                        * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+                    </div>
+                {% endfor %}
+                
+            </div>
+        </div>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="../js/bootstrap.js"></script>
+        
     </body>
     
 </html>
