@@ -2,12 +2,38 @@ body {
     background-image: url(../assets/background2.jpg);
     background-size: cover;
     padding-top: 70px;
+    overflow: hidden;
     font-family: "Quicksand", sans-serif;
 }
 #blog_background_div {
-    background-color: white;
+    background-color: transparent;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 
-.post_div {
+
+
+
+
+.title-div {
+    width: 100px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #777;
+}
+
+.post-div {
     background-color: white;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.date-p {
+    float: right;
+    font-size: 12px;
+}
+
+.title-p {
+    float: left;
+    font-size 14px;
 }

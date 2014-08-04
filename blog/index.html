@@ -17,6 +17,7 @@ title: the electron times
         
         <link href="../css/bootstrap.css" rel="stylesheet">
         <link href="../css/blog_index.css" rel="stylesheet">
+        <link href="../css/site_index.css" rel="stylesheet">
         <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'> 
     
     </head>
@@ -47,12 +48,20 @@ title: the electron times
             <div class="col-md-10 col-md-offset-1" id="blog_background_div">
                 
                 {% for post in site.posts %}
-                    <div class="post_div">
-                        * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+                    <div class="post-div">
+                        <div class="title-div">
+                            <p class="title-p">{{ post.title }}</p>
+                            <p class="date-p">{{ post.date | date_to_string }}</p>
+                        </div>
+                        {{ post.content }}
                     </div>
                 {% endfor %}
                 
             </div>
+        </div>
+        
+        <div id="footer">
+            <p id="footer-p">Written by Benjamin Murphy. GitHub source. Copyright 2014. Some rights reserved.</p>
         </div>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
