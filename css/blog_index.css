@@ -31,16 +31,20 @@ body {
 }
 
 .date-p {
+    margin-right: 10px;
     float: right;
     font-size: 12px;
 }
 
 .title-p {
+    margin-left: 10px;
     float: left;
     font-size: 20px;
 }
 
 .summary-p {
+    margin-left: 10px;
+    margin-right: 10px;
     width: 100%;
     font-size: 12px;
 }
