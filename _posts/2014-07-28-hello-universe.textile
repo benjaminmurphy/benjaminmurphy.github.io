@@ -1,7 +1,7 @@
 ---
+spoiler: Meow meow!
 layout: post
 title: Hello World
-spoiler: Meow meow!
 ---
 
 Hello Universe!
