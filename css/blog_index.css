@@ -65,22 +65,22 @@ body {
     margin-bottom: 10px;
 }
 
-.post-permalink:link {
+a:link {
     color: #777;
     text-decoration: none;
 }
 
-.post-permalink:visited {
+a:visited {
     color: #666;
     text-decoration: none;
 }
 
-.post-permalink:hover {
+a:hover {
     color: #666;
     text-decoration: underline;
 }
 
-.post-permalink:active {
+a:active {
     color: #444;
     text-decoration: underline;
 }
