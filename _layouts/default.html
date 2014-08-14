@@ -1,17 +1,68 @@
+---
+layout: default
+title: the electron times
+---
+
 <!DOCTYPE html>
 
 <html>
 
     <head>
     
+        <meta charset="utf-8">
+        <meta name="author" content="Benjamin Murphy">
+        <meta name="description" content="">
+        
+        <title>benjamin murphy</title>
+        
+        <link href="../css/bootstrap.css" rel="stylesheet">
+        <link href="../css/blog_index.css" rel="stylesheet">
+        <link href="../css/site_index.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'> 
+    
     </head>
     
     <body>
         
-        Content:
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         
-        {{ content }}
-    
+            <div class="container-fluid">
+            
+                <p class="navbar-text" id="title-text">benjamin murphy</p>
+                
+                <ul class="nav navbar-nav navbar-right">
+                
+                    <li><a href="/">home</a></li>
+                    <li><a href="/about">about</a></li>
+                    <li><a href="/blog">blog</a></li>
+                    <li><a href="#">photography</a></li>
+                    <li><a href="#">projects</a></li>
+                    <li><a href="#">contact</a></li>
+                    
+                </ul>
+            
+            </div>
+            
+        </nav>
+        <div class="container-fluid">
+            <div class="col-md-10 col-md-offset-1" id="blog_background_div">
+                <div class="post-div">
+                    <div class="title-div">
+                        <p class="title-p">{{ post.title }}</p>
+                        <p class="date-p">{{ post.date | date_to_string }}</p>
+                    </div>
+                    <p class="summary-p">{{ post.content }}</p>
+                </div>
+            </div>
+        </div>
+        
+        <div id="footer">
+            <p id="footer-p">Written by Benjamin Murphy. GitHub source. Copyright 2014. Some rights reserved.</p>
+        </div>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="../js/bootstrap.js"></script>
+        
     </body>
     
 </html>
