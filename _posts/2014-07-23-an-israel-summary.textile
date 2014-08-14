@@ -3,6 +3,13 @@ layout: post
 title: An Israel Summary
 spoiler: Israel and Palestine have slaughtered countless civilians. How can we minimize the number of casualties and pave the way for long-term peace?
 ---
+
+<div class="title-div">
+    <p class="title-p">An Israel Summary</p>
+    <p class="date-p">July 23, 2014</p>
+</div>
+<div class="content-div">
+
 First, let me say that like many other people in this thread, I believe Israel should take every possible step to preserve the lives of innocent Palestinians/Gazans. You can’t make excuses for the deaths of innocents – it’s always bad.
 
 However, Israel has said that it is targeting Hamas, which is a terrorist group masquerading as a government. A very large percentage (63%, according to David Brooks) of Palestinians don’t like Hamas, and would prefer them gone. In addition, Israel has utilized very humanitarian methods of warfare – significantly more humanitarian than we ever have.
@@ -25,4 +32,4 @@ Now, I don’t think haphazardly shooting missiles at Hamas’s missile launcher
 
 Some people here have advocated for a complete withdrawal by Israel – open the borders, get out of Gaza, etc. While the idea is commendable, and would improve the quality of life for many Gazans, it wouldn’t solve the problem of Hamas. In many places, Hamas has repeatedly said that it is fighting Israel for religious reasons, none of which will be solved by a peacemaking gesture from Israel. So if Israel were to withdraw, Hamas would continue shooting missiles, and would only pull the area back into conflict.
 
-In summary, the only way to maintain long-term peace in the region is to eliminate Hamas and start building communal ties between Palestine and Israel. However, there is no way to eliminate Hamas without a full occupation. Without a full occupation, they will simply spring up again and continue shooting missiles. Any occupation should be done with the greatest possible concern for innocent lives. But we cannot simply expect Israel to weather a constant barrage of missiles from Hamas, which is what will happen if they sit back and don’t take any proactive measures.
+In summary, the only way to maintain long-term peace in the region is to eliminate Hamas and start building communal ties between Palestine and Israel. However, there is no way to eliminate Hamas without a full occupation. Without a full occupation, they will simply spring up again and continue shooting missiles. Any occupation should be done with the greatest possible concern for innocent lives. But we cannot simply expect Israel to weather a constant barrage of missiles from Hamas, which is what will happen if they sit back and don’t take any proactive measures.</div>
