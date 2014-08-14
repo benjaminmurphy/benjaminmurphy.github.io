@@ -24,6 +24,7 @@ body {
 .post-div {
     background-color: white;
     width: 80%;
+    margin-left: 10%;
     border-radius: 4px;
     overflow-y: scroll;
 }
@@ -52,4 +53,13 @@ body {
     padding-right: 10px;
     overflow-y: scroll;
     height: 75%;
+}
+
+.teaser-div {
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 4px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
 }
