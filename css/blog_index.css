@@ -49,9 +49,10 @@ body {
 }
 
 .content-div {
-    margin-left: 10px;
+    padding-left: 10px;
     padding-right: 10px;
     overflow-y: scroll;
+    width: 100%;
     height: 75%;
 }
 
