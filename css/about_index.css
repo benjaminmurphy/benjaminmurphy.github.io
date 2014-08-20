@@ -10,6 +10,7 @@ body {
     background-color: white;
     padding-top: 20px;
     padding-bottom: 20px;
+    border-radius: 4px;
 }
 
 #about-div {
