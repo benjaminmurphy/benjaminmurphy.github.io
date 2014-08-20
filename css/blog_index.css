@@ -1,6 +1,6 @@
 body {
-    background-image: url(../assets/background2.jpg);
-    background-size: auto 100%;
+    background-image: url(../assets/background2.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
     padding-top: 70px;
     overflow-x: hidden;
     overflow-y: scroll;
