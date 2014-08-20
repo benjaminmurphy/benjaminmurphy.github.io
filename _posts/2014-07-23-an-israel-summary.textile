@@ -8,6 +8,7 @@ spoiler: Israel and Palestine have slaughtered countless civilians. How can we m
     <p class="title-p">An Israel Summary</p>
     <p class="date-p">July 23, 2014</p>
 </div>
+
 <div class="content-div">
 First, let me say that like many other people in this thread, I believe Israel should take every possible step to preserve the lives of innocent Palestinians/Gazans. You can’t make excuses for the deaths of innocents – it’s always bad.
 
