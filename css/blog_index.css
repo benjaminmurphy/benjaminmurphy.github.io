@@ -1,6 +1,6 @@
 body {
     background-image: url(../assets/background2.jpg);
-    background-size: cover;
+    background-size: auto 100%;
     padding-top: 70px;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -49,8 +49,8 @@ body {
 }
 
 .content-div {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 10px;
+    padding-top: 5px;
     width: 100%;
 }
 
@@ -68,4 +68,5 @@ body {
     padding: 4%;
     margin-left: 10%;
     border-radius: 4px;
+    padding-bottom: 30px;
 }
