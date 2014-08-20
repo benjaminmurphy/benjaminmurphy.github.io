@@ -19,6 +19,7 @@ body {
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     background-color: #222;
+    color: #777;
 }
 
 .post-div {
@@ -59,26 +60,6 @@ body {
     margin-left: 10%;
     border-radius: 4px;
     margin-bottom: 10px;
-}
-
-a:link {
-    color: #777;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #666;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #666;
-    text-decoration: underline;
-}
-
-a:active {
-    color: #444;
-    text-decoration: underline;
 }
 
 #disqus_thread {
