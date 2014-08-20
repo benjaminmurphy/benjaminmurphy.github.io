@@ -50,7 +50,7 @@ title: the electron times
                 {% for post in site.posts %}
                     <div class="teaser-div">
                         <div class="title-div">
-                            <a href="{{ post.url }}"><p class="title-p">{{ post.title }}</p></a>
+                            <a href="{{ post.url }}#disqus_thread"><p class="title-p">{{ post.title }}</p></a>
                             <p class="date-p">{{ post.date | date_to_string }}</p>
                         </div>
                         <p class="summary-p">{{ post.spoiler }}</p>
@@ -68,7 +68,6 @@ title: the electron times
         <script src="../js/bootstrap.js"></script>
         
         <script type="text/javascript">
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'benjaminmurphy'; // required: replace example with your forum shortname
 
             /* * * DON'T EDIT BELOW THIS LINE * * */
@@ -76,7 +75,7 @@ title: the electron times
                 var s = document.createElement('script'); s.async = true;
                 s.type = 'text/javascript';
                 s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-                (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+                (document.getElementById('comment')[0]).appendChild(s);
             }());
         </script>
         
