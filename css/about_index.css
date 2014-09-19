@@ -1,5 +1,5 @@
 body {
-    background-image: url(../assets/profile6.jpg);
+    background-image: url(../assets/profile.jpg);
     background-size: cover;
     padding-top: 70px;
     overflow: hidden;
@@ -22,7 +22,6 @@ a:link {
     margin-left: 10px;
     width: 55%;
     border-radius: 4px;
-    z-index: 2;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.9);
 }
@@ -33,19 +32,10 @@ a:link {
     margin-right: 2%;
 }
 
-
 .about_statement_div {
     clear: both;
 }
-
-#brown_img {
-    width: 200px;
-}
-
-#image {
-    width: 50%;
+.contact_img {
+    width: 50px;
     height: auto;
-    opacity: 40%;
-    position: fixed;
-    z-index: -1;
 }
