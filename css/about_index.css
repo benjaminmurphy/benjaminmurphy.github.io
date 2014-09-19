@@ -1,5 +1,5 @@
 body {
-    background-image: url(../assets/about_background.jpg);
+    background-image: url(../assets/profile6.jpg);
     background-size: cover;
     padding-top: 70px;
     overflow: hidden;
@@ -7,16 +7,24 @@ body {
 }
 
 #about_background_div {
-    background-color: white;
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 4px;
+    background-color: transparent;
+}
+
+a:link {
+    color: rgb(100, 100, 130);
 }
 
 #about-div {
-    float: right;
-    margin-right: 2%;
-    width: 72%;
+    float: left;
+    margin-left: 10px;
+    width: 55%;
+    border-radius: 4px;
+    z-index: 2;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
 }
 
 #profile-img {
@@ -25,3 +33,19 @@ body {
     margin-right: 2%;
 }
 
+
+.about_statement_div {
+    clear: both;
+}
+
+#brown_img {
+    width: 200px;
+}
+
+#image {
+    width: 50%;
+    height: auto;
+    opacity: 40%;
+    position: fixed;
+    z-index: -1;
+}
