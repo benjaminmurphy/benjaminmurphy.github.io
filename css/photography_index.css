@@ -1,0 +1,27 @@
+body {
+    background-image: url(../assets/photography_background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 70px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    font-family: "Quicksand", sans-serif;
+}
+
+#photography_background_div {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 4px;
+}
+
+.portfolio-div {
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 60px;
+}
+
+.portfolio-img {
+    width: 100%;
+    border: 2px solid black;
+}

@@ -1,0 +1,15 @@
+body {
+    background-image: url(../assets/projects_background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 70px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    font-family: "Quicksand", sans-serif;
+}
+#project_background_div {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 4px;
+}
