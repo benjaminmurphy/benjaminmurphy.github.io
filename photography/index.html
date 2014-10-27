@@ -13,8 +13,8 @@
         <link href="../css/bootstrap.css" rel="stylesheet">
         <link href="../css/photography_index.css" rel="stylesheet">
         <link href="../css/site_index.css" rel="stylesheet">
+        <link href="../css/magnific-popup.css" rel="stylesheet">
         <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
-    
     </head>
     
     <body>
@@ -40,55 +40,20 @@
         </nav>
         
         <div class="container-fluid">
-            <div class="col-md-6 col-md-offset-3" style="margin-bottom: 40px;" id="photography_background_div">
-                                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0021.jpg">
-                </div>
+            <div class="col-md-8 col-md-offset-2" id="photography_background_div">
                 
                 <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0028.jpg">
+                    <a class="test-popup-link">
+                        <img class="portfolio-img" src="/assets/DSC_0153.jpg">
+                        <div id="photography-desc-div">
+                            <span style="font-size: 24px;">I am a photographer.</span><br><br>
+                            I particularly enjoy macro wildlife<br>
+                            photography and light painting.<br><br>
+                            <span style="font-size: 18px;">Click on the image to view a <br>selection of my work.</span>
+                        </div>
+                    </a>
                 </div>
                 
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0039.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0048.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0052.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0060.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0087.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0137.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0219.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0392.jpg">
-                </div>
-                
-                <div class="portfolio-div">
-                    <img class="portfolio-img" src="/assets/DSC_0535.jpg">
-                </div>
-                
-                <div class="portfolio-div"  style="padding-bottom: 80px;">
-                    <img class="portfolio-img" src="/assets/DSC_1132.jpg">
-                </div>
                 
             </div>
         </div>
@@ -98,7 +63,16 @@
         </div>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="../js/jquery.magnific-popup.js"></script>
         <script src="../js/bootstrap.js"></script>
+
+        <script>
+            $('.test-popup-link').magnificPopup({ 
+                items: [{src: "../assets/DSC_0021.jpg"}, {src: "../assets/DSC_0028.jpg"}, {src: "../assets/DSC_0039.jpg"}, {src: "../assets/DSC_0048.jpg"}, {src: "../assets/DSC_0052.jpg"}, {src: "../assets/DSC_0060.jpg"}, {src: "../assets/DSC_0087.jpg"}, {src: "../assets/DSC_0137.jpg"}, {src: "../assets/DSC_0219.jpg"}, {src: "../assets/DSC_0392.jpg"}, {src: "../assets/DSC_0535.jpg"}, {src: "../assets/DSC_1132.jpg"}, {src: "../assets/DSC_0153.jpg"}, {src: "../assets/DSC_0180.jpg"}, {src: "../assets/DSC_0304.jpg"}, {src: "../assets/IMG_0384.jpg"}, {src: "../assets/IMG_0527.jpg"}, {src: "../assets/DSC_0337.jpg"}],
+                gallery: {enabled: true},                 
+                type: 'image'
+            });
+        </script>
         
     </body>
     
