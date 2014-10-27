@@ -12,9 +12,11 @@ body {
 
 #photography_background_div {
     border-radius: 4px;
+    position: absolute;
 }
 
 .portfolio-div {
+    position: absolute;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
