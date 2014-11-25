@@ -1,0 +1,23 @@
+---
+layout: post
+title: My Experiences with Complexity and Modeling
+spoiler: My experiences with the Santa Fe Institute's Complexity and Modeling Program.
+---
+
+<div class="title-div">
+    <p class="title-p">My Experiences with Complexity and Modeling</p>
+    <p class="date-p">July 24, 2011</p>
+</div>
+
+<div class="content-div">After returning from Santa Fe Institute's Complexity and Modeling Program yesterday, I can say that I understand what it means to model a process on a computer. A model provides a graphic interface for understanding a system. While models can never capture the detail available in the real world, the abstractions they provide can often be more than enough. By demonstrating a process, it allows you to identify patterns that can emerge out of unlikely places. For example, take Langdon's Ants, a simple cellular automata. After creating an ant, we tell it to follow very simple rules:
+
+1. If the square you are standing on is black, turn it white. Then, turn left and move forward one square.
+2. If the square you are standing on is not black, turn it black. Then, turn right and move forward one square.
+
+You might expect these rules to create a mess of squares, unrelated patterns of black and white. However, after having the ant repeat this process thousands and thousands of times, fascinating structures emerge. After a point, the ant breaks off from the mess, creating a highly composed line of repeating patterns of squares. Adding in more ants can result in even more interesting patterns.
+
+In addition to modeling, I learned about chaotic and complex systems, and the differences between the two. Ecological data gathering made up a major part of my time there, which included looking at the wood-cutting habits of beaver, the spread of pollen by pollinators and the shape of leaves depending on their location in the forest.
+
+NetLogo, the modeling program of choice there, is an excellent tool for both beginning programmers and modelers. It is highly reminiscent of Python, although certainly easier to learn. A full dictionary of terms is provided, as well as all other documentation on its use.
+
+I look forward to working more with SFI in the future, and I think that modeling and complexity science certainly have a major role to play in the future of science.</div>

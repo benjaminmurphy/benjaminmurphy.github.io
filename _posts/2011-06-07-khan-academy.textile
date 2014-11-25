@@ -1,0 +1,18 @@
+---
+layout: post
+title: Khan Academy
+spoiler: A brief introduction to the work of Salman Khan, and his organization, Khan Academy.
+---
+
+<div class="title-div">
+    <p class="title-p">Khan Academy</p>
+    <p class="date-p">June 7, 2011</p>
+</div>
+
+<div class="content-div">I'm very interested in Khan Academy, and the work of its founder, Salman Khan. He is the founder and "only faculty member" of the Academy, a website filled with videos giving tutorials on mathematics, science, history and economics, among others. The videos range from five to twenty minutes, and are completely free of charge. In addition, he has created thousands of practice problems and quizzes for every topic he creates a movie on.
+
+He believes that the teacher spends too much time lecturing, and not enough time working 1 on 1 with students. His goal (which has already gone underway at some schools) is to use the videos as a form of "homework", where the students return home and watch the assigned lectures at their own convenience. This allows teachers time to help students with individual problems.
+
+In addition to hosting more than 2,300 videos, the website contains many other resources. These include a progress manager, so that teachers can check on students as they attempt quizzes, and help them in class the next day, suggested videos for students, "badges" of various sorts, to promote the fun of watching the lectures.
+
+I find this field of education fascinating, because of the far reaching implications. With this, parents could have a greater involvement in their child's education by checking progress reports, and helping them with simple topics at home. Taking stress off of teachers is very beneficial also, as it gives them more time to prepare students for standardized testing, and to ensure they have a deep understanding of the topic.</div>

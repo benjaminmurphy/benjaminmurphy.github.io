@@ -1,7 +1,0 @@
----
-spoiler: Meow meow!
-layout: post
-title: Hello World
----
-
-Hello Universe!

@@ -1,0 +1,22 @@
+---
+layout: post
+title: ARML
+spoiler: Lehigh Valley's dominance at ARML continues. Will it ever stop?
+---
+
+<div class="title-div">
+    <p class="title-p">ARML</p>
+    <p class="date-p">June 6, 2011</p>
+</div>
+
+<div class="content-div">I recently returned from the American Regions Math League (ARML) at Penn. State after my second year of competing on the Maine teams. For the third year in a row, the top team from Lehigh Valley, a region on the eastern border of Pennsylvania, won the national competition. They were competing against hundreds of teams from across the U.S., who competed at venues such as the University of Georgia, or U.N.L.V.
+
+Their team left with many awards, and even more high scorers. This begs the question, why? There are plenty of teams that can compete with them, such as the team from Phillips Exeter, Nassau County, or NYC, but what about the lesser known teams, such as the Maine team?
+
+After a bit of research, I discovered some interesting things about the Lehigh Valley ARML team. They are associated with Lehigh University: They hold practices on campus, have many professors as coaches to the team, and most of their team members take classes through the university. In addition, their team is invitational, they have the final say as to who they take to ARML.
+
+These are the most obvious differences between the competition levels of teams such as Lehigh Valley, and teams such as Maine. They practice near year round on problems of the same difficulty as ARML, giving them an edge over teams that practice with easier problems, or less complex ones. After attending for two years, I can say with certainty that this applies to the Maine Association of Math Leagues (MAML). The practice required for the state competitions is obviously necessary, but is nowhere near the amount of preparation needed for ARML and the like.
+
+For teams or individuals that practice on ARML, AIME, USAMO and NEML problems year round, finishing as a top team at ARML comes much easier then those that don't. Many past problems from these competitions are available through sites such as the Art of Problem Solving.
+
+Next year, when MAML starts in September, I think that practicing with problems from the aforementioned contests will help me to become one of the top competitors in the state, and hopefully place well nationally. After all, if Lehigh Valley students can do it, why not students from Maine?</div>
