@@ -1,0 +1,26 @@
+---
+layout: post
+title: We're Messing Up
+spoiler: Another year, another disappointing set of education statistics. In a recent series of fantastic articles, the New York Times has analyzed the education system of the United States, in addition to providing comments on potential areas of improvement. Today, another article in the series was published examining the results of a survey conducted by the Organization for Economic Cooperation and Development, or the O.E.C.D.. It focuses on two countries and a region, and their respective successes in education.
+---
+
+<div class="title-div">
+    <p class="title-p">We're Messing Up</p>
+    <p class="date-p">December 18, 2013</p>
+</div>
+
+<div class="content-div">Another year, another disappointing set of education statistics. In a recent series of fantastic articles, the New York Times has analyzed the education system of the United States, in addition to providing comments on potential areas of improvement. Today, another article in the series was published examining the results of a survey conducted by the Organization for Economic Cooperation and Development, or the O.E.C.D.. It focuses on two countries and a region, and their respective successes in education.
+
+First, the author examines Finland. Finland has long been near the top in most worldwide education assessments, especially so in math and literacy. Finnish schools stand out by providing daily meals, health and dental services, and many other facilities for families who need them. In addition, they place an extraordinarily high importance on the teaching profession. Educators are recruited from the top quarter of the graduating class, and are held in very high esteem by young people.
+
+Next up is Canada. Although Canada isn't a leader of the pack in education, they continue to place well above the United States. Of particular importance is how they pay for their schools: Rather than base school budgets on district-by-district taxation, they conduct it at a provincial level, ensuring that schools don't receive grossly uneven funding, as often happens in the United States.
+
+Finally, the author considers Shanghai, China. Shanghai placed number one on the survey from the O.E.C.D., and typically is in the top-tier on other education assessments. Among many other notable attributes, their education system promotes equality between schools. Rather than putting high achieving students in one school, as often happens with private or charter schools in the United States, they take an egalitarian approach by having everyone study under one roof, with the same level of funding and same quality of teachers. If a school is in trouble, a better school will sometimes take over, and often will transfer some teaching staff to the lower school, thus ensuring relative equality.
+
+I think there are plenty of lessons for America from these "paragon" countries. Often, people say that the vastness of America's education system makes it difficult for reforms like these to take place, which is a valid critique. However, this is no excuse to not try.
+
+A recent article in the Atlantic examined scores on these education assessments from middle-class and up families in Washington D.C., which were solidly better than the average in America, and were among those of the top countries for education. So the problem is not that we don't have good schools and good teaching methods, but that they work properly primarily for students who don't have stresses in their family life. Perhaps this indicates that we should adopt a system similar to Finland, where we can supply services to families and students to allow them to focus their attention on their studies.
+
+We have some similar systems in place already, providing breakfast and lunch to students for a reduced price or for free. But these systems don't account for the weekend or school break, which are equally as important as the school day. And they don't necessarily provide for anyone beyond the student, i.e., the student's family. I think family life plays a larger role in academics than we give it credit for, so it's about time that we corrected our approach to account for it.
+
+With regards to Canada and Shanghai, which take two different approaches to solving school inequity, I wonder if that problem is even rectifiable in the United States. Do elite families automatically assume that a charter or private school is necessary for their children? Could we change the public opinion of public school as a bad choice for education? Hard questions like these need to be asked about our education system. And soon.</div>

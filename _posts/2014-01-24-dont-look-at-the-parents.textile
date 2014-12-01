@@ -1,0 +1,47 @@
+---
+layout: post
+title: Don't Look at the Parents
+spoiler: "If you want your child to get an education, then I’m afraid that as a teacher, I can’t help you, but feel free to stop by if you want a sticker and a C."
+- A middle school teacher in Maryland
+---
+
+<div class="title-div">
+    <p class="title-p">Don't Look at the Parents</p>
+    <p class="date-p">January 24, 2014</p>
+</div>
+
+<div class="content-div">
+"If you want your child to get an education, then I’m afraid that as a teacher, I can’t help you, but feel free to stop by if you want a sticker and a C."
+- A middle school teacher in Maryland
+
+Last month, the Washington Post published an email from a seventh grade literary arts teacher in Frederick, Maryland. She discussed why she's given up on actually being an educator, and has resigned herself to a world of top-down oversight, undeserved grades and, wait for it, no learning. Her piece in full can be found here.
+
+Next, Thomas Friedman published an op-ed piece on Sunday discussing both this email and a recent speech by Arne Duncan, the Secretary of Education. Here's an excerpt from the article and the speech:
+
+
+“In 2009, President Obama met with President Lee of South Korea and asked him about his biggest challenge in education. President Lee answered without hesitation: parents in South Korea were ‘too demanding.’ Even his poorest parents demanded a world-class education for their children, and he was having to spend millions of dollars each year to teach English to students in first grade, because his parents won’t let him wait until second grade. ... I [wish] our biggest challenge here in the U.S. was too many parents demanding excellent schools. 
+“I want to pose one simple question to you: Does a child in South Korea deserve a better education than your child?” Duncan continued. “If your answer is no ... then your work is cut out for you. Because right now, South Korea — and quite a few other countries — are offering students more, and demanding more, than many American districts and schools do. And the results are showing, in our kids’ learning and in their opportunities to succeed, and in staggeringly large achievement gaps in this country. Doing something about our underperformance will mean raising your voice — and encouraging parents who aren’t as engaged as you to speak up. Parents have the power to challenge educational complacency here at home. Parents have the power to ask more of their leaders — and to ask more of their kids.”
+
+Finally, I'd like to relate an experience I had while teaching math and computer science earlier this week to a group of local homeschooled students, ranging in age from seven to fourteen or so. We were working on the Cartesian coordinate system, which we had previously covered, and the Pythagorean Theorem.
+
+Surprisingly to me, many students of late elementary or middle school age were having difficulties with basic multiplication and addition, so the lesson proceeded slower than usual - no worries. I didn't know how it would go over, so I had given myself extra time to work with the students. In this instance, I was working with a pair of brothers, one eight and one ten. I've had them in classes since September, and one of them has become a fairly proficient Scratch programmer while I've worked with him. However, they haven't had much exposure to math, so I had to work with them quite a bit on this day in particular.
+
+The Pythagorean Theorem can be confusing when you're just learning, so I had them go through step-by-step, helping them multiply when necessary, and guiding them to the answer. Again, not a problem. What concerned me is that this entire time, their mother is sitting at the same table, simultaneously telling me how she's always hated math, and how her kids are both lazy and not willing to put in any effort to doing school. I'll leave it at that, but I'd just like to use this as an example of a parent who wasn't cut out as a teacher, and a pair of kids who would likely be better off in public school.
+
+Now, I want to talk about the two articles. First, I was absolutely blown away. I've talked with disgruntled teachers before, I've read countless articles, and I've seen enough statistics to know that we're dropping the ball hard in education. But there's something about the statement, "They are not allowed to fail," that is just outright shocking.
+
+So my question is, why? It certainly isn't a problem previous generations have had; my parents can relate tales of failure, as can many others. And I don't think it's a generation of lazy people; after all, kids are shaped by their parents in large part, and nobody is "born lazy". Instead, I think there's been an almost institutional failure in parenting.
+
+Perhaps the easiest way to point this out is through politics. Even with education-crazy presidents, nobody will dare point a figure at parents, which is why Arne Duncan's speech is so surprising and so refreshing. It's a common Republican refrain that parents know what's best for their children, and that the government should back off. And at times, liberals will echo the sentiment. But is that really true? After having read the aforementioned articles, I can't say yes.
+
+Let's trust the teachers. Sure, there are teachers out there who shouldn't be in education, or who lack the requisite training in their subject field, but they comprise a tiny portion of the educators in our country. Let's let the people who are passionate about teaching, who are trained to educate, and who care about our kids, educate! Now, I'm not saying that parents have no value. After all, it's not the job of school to teach kids about life skills, morality, or just plain common sense.
+
+In the email from the teacher, look at the problems she talks about. Quantifying education, teaching to the test instead of working on anything practical, and a lack of good professional development for teachers, among others. Now, look at Finland. Students in Finland take only one standardized test, don't have state-mandated teaching guidelines, and only teach four hours a day. And what's the result? Finland is consistently a top five education performer, being a teacher is akin to being a doctor, and they have one of the highest graduation rates in the world.
+
+In essence, I guess I would quantify the problem as such:
+
+We have grown accustomed to the idea that we know better than the teacher. Instead of letting the professional do their job, we insist they must be mistaken. We don't pay our teachers well, restrict them from teaching what they love, and yell at them for doing their job. And it's not just the teachers who suffer, it's our kids as well. Because instead of actually learning, we never challenge them, and shout down anyone who gives them a grade they deserve.
+
+Let's change the system. And let's have parents kick off the revolution by stepping out of schools, listening to teachers, and working with their kids at home. Let's not become the generation in American history noted for institutional failures in education; the generation that couldn't get its act together.
+
+Let's educate our kids.</div>

@@ -1,0 +1,20 @@
+---
+layout: post
+title: The Mess of Obamacare
+spoiler: In the past few weeks, Obamacare has devolved from a promising, if muddled system into a downright disaster. Between the continued failures of the healthcare marketplaces, and the publicity granted to consumers who have lost their insurance because it didn't meet the standards mandated in the law, there's been almost nothing positive to say about the Affordable Care Act. Only 40% of the public approves of the law, with 55% disapproving, the worst numbers in the past year, according to Gallup..
+---
+
+<div class="title-div">
+    <p class="title-p">The Mess of Obamacare</p>
+    <p class="date-p">November 18, 2013</p>
+</div>
+
+<div class="content-div">In the past few weeks, Obamacare has devolved from a promising, if muddled system into a downright disaster. Between the continued failures of the healthcare marketplaces, and the publicity granted to consumers who have lost their insurance because it didn't meet the standards mandated in the law, there's been almost nothing positive to say about the Affordable Care Act. Only 40% of the public approves of the law, with 55% disapproving, the worst numbers in the past year, according to Gallup.
+
+It's obvious that the implementation of the otherwise good law has been deeply flawed. But that doesn't mean the ideal of the law isn't valuable. The New York Times Editorial Board published a piece on Obamacare this morning, which cited a new study by the Commonwealth Fund surveying healthcare systems of ten advanced countries - Australia, Canada, France, Germany, the Netherlands, Norway, Sweden, Switzerland, Britain, and the United States. By almost every metric, the United States ranked at or near the bottom of this list. Of course, it isn't just that we have poor healthcare, it's that we pay significantly more for it, both per capita and as a percent of the national economy.
+
+In a world with so many other important issues, healthcare would seem to be the most basic one to solve. After all, we have a great number of other countries to draw data from. But the failures with Obamacare may have come too far. Earlier this week, the House of Representatives passed a bill that, in short, allows consumers to keep their preexisting insurance plans, even if they don't meet the Affordable Care Act standards. Of course, this is the Republican-dominated chamber of Congress, but 39 Democrats joined their coalition on this vote, showing defiance to Democratic leadership.
+
+Despite all of the problems, it is vital that we not repeal the Act entirely. Presidents have tried to implement a national healthcare system for decades, and President Obama is the first to succeed. If we repeal his work now, then there is no guarantee that we will see any progress on the front for decades more. I know that it's not always easy to give someone more time to fix something, especially if you are an uninsured American who either lost their coverage or is trying to find a plan through the marketplaces, but in the end, the Affordable Care Act can only benefit you.
+
+We should roll back the deadline for finding coverage, reform the law as necessary, and fix the exchanges. Since the Senate and White House will never allow the House's bill to pass, there's little point to getting upset about the progress. Instead, lawmakers should focus on another issue plaguing the country. Immigration, the farm bill, education and climate change all come to mind. Just don't touch our Obamacare.</div>

@@ -1,0 +1,31 @@
+---
+layout: post
+title: What's the Difference Between Starcraft II and League of Legends?
+spoiler: In November of 2011, I discovered StarCraft II. As a World of Warcraft player, it was a new world - rather than a game where the people who spent the most time in game had the most gold and items, in StarCraft, every game starts from the same point. You can't have any advantage coming into a game, other than your personal skill. I had been fed up with the progression feel of WoW for a while, as I didn't have time to play for several hours each night. To me, StarCraft was like a breath of fresh life.
+---
+
+<div class="title-div">
+    <p class="title-p">What's the Difference Between Starcraft II and League of Legends?</p>
+    <p class="date-p">May 11, 2013</p>
+</div>
+
+<div class="content-div">In November of 2011, I discovered StarCraft II. As a World of Warcraft player, it was a new world - rather than a game where the people who spent the most time in game had the most gold and items, in StarCraft, every game starts from the same point. You can't have any advantage coming into a game, other than your personal skill. I had been fed up with the progression feel of WoW for a while, as I didn't have time to play for several hours each night. To me, StarCraft was like a breath of fresh life.
+
+I played StarCraft daily until this past February. I watched every big tournament, had favorite players and read about strategy. In addition, I progressed quite far; I began, like everyone, in Bronze League, but after about four or five months of play, I had made it up to the Diamond League (League progression: Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster).
+
+Needless to say, I invested a lot of time into StarCraft, and I won more than 50% of my games. However, I thought there was one thing wrong with the game: Everything was individual skill. Watching some professional players practice at 300 actions per minute, I knew I could never reach that level of achievement. I was a very logical player, and many of my wins were because I outsmarted my opponent and predicted their next move, but logic can only get you so far if you don't have strong mechanics as a player.
+
+In February, this grew to a head. I was often outperformed mechanically, and the new expansion was coming out soon (Heart of the Swarm), so I decided to take a short break from the game. Previously, I had played League of Legends with friends, but I hadn't really explored the competitive side of the game. So I tentatively picked it up, intending to play for a month or two while I waited for the expansion to StarCraft.
+
+I found a completely different game, and one that fixed the main issue with StarCraft: You are never working alone. Games in League are either 5v5 or 3v3, so you have at least two other people who are playing alongside you. Of course, if you're playing matchmade games, you don't know the people you're playing with, which can be very aggravating.
+
+Nevertheless, I immediately fell in love with League. Every game was different, relying on the composition of your team (each person plays as a "champion", of which there are currently 112). In addition, many professional events are hosted by Riot Games, the creator of League, meaning they have fantastic production quality, and a real tie-in to the eSports world.
+
+I don't think that StarCraft is a bad game - on the contrary, if you really want to showcase your individual skill, League isn't the game for you. If you're like me, and want to play a logical game with lots of teamwork and strategic thinking, then come join me on League.
+
+I'd like to wrap this article up by discussing the necessary mentality to playing StarCraft versus League.
+In the former, concentration is everything. In many cases, noticing an indicator on your minimap even five seconds late can lose you the game. It's high pressure, and it's very easy to mess up once you reach an intermediate level. A game can run as short as four minutes, or as long as an hour. It's very exhausting - the focus required can be very hard to maintain for more than one game, and losing one game can often put you on a direct trajectory to lose the next.
+
+In contrast, you definitely need concentration to play League, but when you have four other people talking in your ear, it's more important to be aware of the entire game, than to just focus in on your section of it. As I said earlier, individual skill is significantly less important - while it does matter when you fight someone in game one on one, if you can call the correct shots about when to fight, when to run and when to ambush, your skill as a player is almost insignificant. Finally, League is much more forgiving. You can lose a fight (or more), and still potentially come back to win.
+
+So, in conclusion, each game requires a very different skillset, with little overlap. I know that I'm suited to League, but I spent more than a year playing StarCraft happily. Either way, both are fantastic games, and if you haven't tried either, then what are you waiting for?</div>

@@ -1,0 +1,20 @@
+---
+layout: post
+title: Teaching a Love of Math
+spoiler: Every Wednesday, I teach a group of homeschooled students how to program in Scratch. We have been working for a couple months now, and we've made great progress; in fact, we will likely have explored all the blocks in a week or two. Recently, I found myself thinking about a logical next step for these kids. Many of them have shown a real passion for Scratch, and will likely be content creating advanced projects using it for a while. Since a rigorous programming language, such as Python or Java, is likely out of reach for a couple years, what is the next step?
+---
+
+<div class="title-div">
+    <p class="title-p">Teaching a Love of Math</p>
+    <p class="date-p">November 19, 2013</p>
+</div>
+
+<div class="content-div">Every Wednesday, I teach a group of homeschooled students how to program in Scratch. We have been working for a couple months now, and we've made great progress; in fact, we will likely have explored all the blocks in a week or two. Recently, I found myself thinking about a logical next step for these kids. Many of them have shown a real passion for Scratch, and will likely be content creating advanced projects using it for a while. Since a rigorous programming language, such as Python or Java, is likely out of reach for a couple years, what is the next step?
+ 
+I think it's math. But not traditional math - learning decimals and fractions, pre-algebra and rates, while useful, isn't remotely interesting. In fact, I suspect that teaching math in the typical, to-the-test manner kills off any potential for a love of math later in life, at least for most students. No, teach the cool stuff. The Fibonacci series, probability, constructions, and more. In fact, the most interesting math might be more difficult than anything you would typically encounter in a high school curriculum. No worries - there's no need to prove it, or even to discuss it rigorously. If it's fun to explore, the tie to rigorous mathematics can come later in life.
+ 
+In my experiences with the local math team, I've noticed a stunning lack of interest in math in incoming students. To them, math is a tool, to be used to pass tests and not much else. To them, math team is also a tool to get an extra credit on their math grade, or maybe to help prepare for the SATs. At the moment, only one other student on the team has a real fascination with math, as far as I can tell. One day at practice, he demonstrated a proof that 1 = -1 using complex numbers. While obviously not true, it shows that he found the topic interesting enough to explore on his own, and to develop his own thinking.
+ 
+Some might say that there's no need to think of math in this way. After all, unless you're going to become a career mathematician, you'll only really use math as a tool anyway. I disagree. It's hard to describe the sense of completion, of understanding you experience when you muddle your way through a proof, or discover a beautiful new theorem. Or the state of flow you enter when exploring a new topic. Are these experiences exclusive to math? Not at all. But there is a difference in how you experience it with math, and with, say, physics. It can't be put into words, it just has to be tried.
+ 
+So to all the elementary school math teachers: Carve out some time in the middle of your test-preparation curriculum, and demonstrate Gauss's method for adding up the numbers between one and one hundred. You never know, maybe you'll spark a love of math in a student, who may turn out to be the next Gauss.

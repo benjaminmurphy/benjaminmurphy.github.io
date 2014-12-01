@@ -1,0 +1,52 @@
+---
+layout: post
+title: Hashing
+spoiler: I've been learning about web development recently, and as is probably obvious, part of making a good website is making it secure to malicious hacking. So how do you ensure that when someone breaks into your database, they don't get any critical information, such as a password. The answer? You use a hash function.
+---
+
+<div class="title-div">
+    <p class="title-p">Hashing</p>
+    <p class="date-p">February 14, 2014</p>
+</div>
+
+<div class="content-div">I've been learning about web development recently, and as is probably obvious, part of making a good website is making it secure to malicious hacking. So how do you ensure that when someone breaks into your database, they don't get any critical information, such as a password. The answer? You use a hash function.
+
+A hash function is a function that takes some input, often a string of characters, and outputs an encoded message. A good hash function will have three properties:
+
+- Given a hashed message, it's very difficult to find the unencrypted version.
+- It's very difficult to modify the original message in any way without changing the hash.
+- It's very difficult to find two messages that hash to the same value.
+
+Plenty of different hash functions are in use today. A commonly used one is SHA-1. Here's an example of the function in use:
+
+SHA1("message") = 6f9b9af3cd6e8b8a73c2cdced37fe9f59226e27d
+SHA1("Message") = 68f4145fee7dde76afceb910165924ad14cf0d00
+
+ 
+Changing the "m" from lower to upper case drastically changed the hash, as you can see. Now, how on earth does this help us with security?
+ 
+A website should never store the password of a user in a database. Not only is it ripe for the hacking, any employee or webmaster could easily see it and use it maliciously. Instead, you store the hash of the password. When a person tries to log in, you hash their password and check it against the stored value. If it's a match, then it's the right person. But if someone retrieves information from the database, all they get are the hashes, which prevent them from finding the original version.
+ 
+Or not. Even though there is no way to reconstruct the original message from the hash, there are several ways to circumvent this system.
+ 
+First, many hashing algorithms have been broken. Some are still commonly used, like SHA-1 and MD5. In the case of MD5, a researcher generated two strings, one a security clearance, the other a letter of recommendation, that both hashed to the same value. Since hashes are often used to check that data hasn't been corrupted, that's a huge security hole. To circumvent this, you just need to use a modern hashing algorithm that hasn't yet been broken.
+ 
+Next, even for secure algorithms, there are "rainbow tables". A rainbow table is a listing of millions of message-hash keys. So when a hacker retrieves a hash, they just look it up in a rainbow table (many are publicly available online), and they can instantly retrieve the message.
+ 
+To get around this challenge, you can use a "salt". Basically, a salt is a random string of characters that gets added to every message you encrypt. It also is not encoded - the salt is sitting right next to the hash value. Let me give you an example.
+ 
+My message is "Ready for dinner?", and my salt is 12345. When I wanted to hash the message, I would do something like this:
+ 
+SHA-1("Ready for dinner?"+"12345") = 811d62b5879d14b24f4d69d4d899fc0ccd991714
+ 
+But wait! A new salt is randomly generated for every message, so how could we ever figure out what the salt is when we want to check something against the hash? Here's the clever part - we simply include the salt right with the hash. So in our database, we wouldn't just store the hash, we'd store:
+ 
+811d62b5879d14b24f4d69d4d899fc0ccd991714-12345
+ 
+Now, we know the salt for that specific hash, and we can check against it. How does this circumvent a rainbow table though? It does by adding characters to your message, which makes it exponentially less likely to be included in a rainbow table. "Ready for dinner?" could be in a table somewhere, but "Ready for dinner?12345"? Probably not. Even if you know the salt, it doesn't get you any closer to knowing the message - it just takes away the possibility of using a rainbow table.
+ 
+Finally, there's brute force. Even for a currently safe hash, you can simply go through every possible message until you find one that hashes correctly. Previously, even with the fastest computer on the market, that was thought to be infeasible. However, new technologies utilize the GPU in your computer to increase the speed of the calculations by a vast amount. Rather than repeat everything here, there's a fantastic article from Coding Horror on speed hashing.
+ 
+Our way around this? Use hashing algorithms that take a long time, so that even a GPU can't churn through them fast enough. One example of this is bcrypt, a fairly new algorithm designed in part to avoid these new issues.
+ 
+Hashing is an ongoing war between cryptographers and those looking to steal data. It's used everywhere on the web, and I find it to be quite an interesting topic. I hope you did as well.</div>

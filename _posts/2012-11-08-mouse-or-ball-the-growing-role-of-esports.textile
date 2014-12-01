@@ -1,0 +1,17 @@
+---
+layout: post
+title: Mouse or Ball: The Growing Role of eSports
+spoiler: On August 16th, over 90,000 people tuned into an online video stream to watch Ilyes Satouri and Juan Durán battle in the strategy game StarCraft 2, vying for the title of European champion and the accompanying $24,000 prize. In October, more than 300,000 people tuned in to view the stream for the League of Legends Season 2 Championship (a top prize of $1,000,000), and many more attended the venue in Los Angeles. StarCraft and League of Legends are just two games that are part of the electronic sports industry; a field that has been steadily growing in size since its inception in the 1980s.
+---
+
+<div class="title-div">
+    <p class="title-p">Mouse or Ball: The Growing Role of eSports</p>
+    <p class="date-p">November 8, 2012</p>
+</div>
+
+<div class="content-div">
+On August 16th, over 90,000 people tuned into an online video stream to watch Ilyes Satouri and Juan Durán battle in the strategy game StarCraft 2, vying for the title of European champion and the accompanying $24,000 prize. In October, more than 300,000 people tuned in to view the stream for the League of Legends Season 2 Championship (a top prize of $1,000,000), and many more attended the venue in Los Angeles. StarCraft and League of Legends are just two games that are part of the electronic sports industry; a field that has been steadily growing in size since its inception in the 1980s.
+
+    Today, eSports is primarily comprised of real-time strategy games and first-person shooter games. Many companies have been created to host tournaments around the world, where tens, if not hundreds of players gather to compete for a cash prize, each competing under a screen ID, such as MC, Scarra or Alicia. For StarCraft 2, my game of choice, there are leagues that have professional games on a nightly basis, along with major tournaments almost every weekend.
+    Electronic sports has become a major industry: In 2011, consumers spent almost $25 billion on video games, hardware and accessories. In addition, in 2009, the NPD Group found that 63% of Americans had played some form of video game within the last six months. If you think that's surprising, consider this: 97% of teenagers play some form of video game, according to the Pew Foundation. The appeal of games like League of Legends, StarCraft or Halo is understandable: In addition to playing games as a job, most professionals are on a team and can be salaried more than $100,000 a year, not including tournament winnings.
+    Although eSports has a long way to go before it is comparable to a traditional sport, such as baseball or football, the time is ripe. In South Korea, eSports is an immense business: There are television stations devoted to specific games, and StarCraft 2 has been informally dubbed the "national sport". In fact, nationals are so dominant in many games, non-Koreans are generally considered foreigners. However, the craze is spreading. Across the world, bars are devoting time to stream the latest tournaments in StarCraft and League of Legends, and tournaments in Europe and America draw in thousands of viewers. Slowly but surely, people are dropping their bats, helmets and balls, and picking up a mouse.</div>

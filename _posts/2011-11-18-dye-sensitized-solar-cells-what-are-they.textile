@@ -1,0 +1,25 @@
+---
+layout: post
+title: Dye-Sensitized Solar Cells: What are they?
+spoiler: When you think about solar cells, images of massive arrays of black, shiny rectangles may spring to mind;  or, perhaps, a smaller setup that a friend, or even you has for your house. Sheets of silicon, green energy, or even climate change spring to mind. Some things that probably will never enter your thoughts are fruit, vegetables, or even leaves. Dye-sensitized solar cells (DSCs) are a new type of photoelectric cell based upon pigments from plants. Developed by Michael Gratzel in 1991, they have always been on the fringes of solar cell research - never cost-effective enough to become mainstream, but always worth a thought.
+---
+
+<div class="title-div">
+    <p class="title-p">Dye-Sensitized Solar Cells: What are they?</p>
+    <p class="date-p">November 18, 2011</p>
+</div>
+
+<div class="content-div">
+When you think about solar cells, images of massive arrays of black, shiny rectangles may spring to mind;  or, perhaps, a smaller setup that a friend, or even you has for your house. Sheets of silicon, green energy, or even climate change spring to mind. Some things that probably will never enter your thoughts are fruit, vegetables, or even leaves. Dye-sensitized solar cells (DSCs) are a new type of photoelectric cell based upon pigments from plants. Developed by Michael Gratzel in 1991, they have always been on the fringes of solar cell research - never cost-effective enough to become mainstream, but always worth a thought.
+
+The most commonly known natural dye is chlorophyll, which is the green pigment in leaves that plants use in photosynthesis. However, there are a multitude of natural pigments, from betalain to anthocyanin to rutin, which account for the plethora of colors in plants we see. The dye acts as a molecular sensitizer - in other words, it gives up electrons when energy, in this case, light, strikes it. Those electrons are transferred through a semiconductor, and into an electrode, creating a current. The electrons are then deposited at a cathode, and are moved back to the dye molecule, ready for the cycle to repeat.
+
+Since DSCs can be made of extremely low cost materials, they pose a viable alternative to the traditional silicon based solar cells. In addition, they are easier on the environment, since their creation is relatively easy and does not require heavy manufacturing. They also have a relatively high conversion efficiency, with an average of around 11%.
+
+The only real downside to DSCs is that they stop working over time. The dyes degrade, meaning that they, along with other chemicals, need to be replenished regularly. At the moment, there is no push to shift from silicon-based cells, since they can be produced cheaply and quickly. In the future though, when solar cell manufacturing moves away from big companies and into smaller, entrepreneurial groups, DSCs  have a lot of potential.
+
+Dr. Heroux at the University of Maine at Farmington and I are in the beginning stages of research on the longevity of the cells - specifically, how their voltage decreases over time. We intend to start experimentation in the spring - several months of measurements from cells under a light. Hopefully, this will give us a better understanding of how often constituent chemicals need to be replaced for the cell to maintain near optimal efficiency.
+
+Although DSCs will probably never completely take over the solar industry, they provide an alternative to the traditional cell, and they may come to have more advantages in the future. Flexible, thin sheets of dye-sensitized cells are currently in production. In addition, the cells are more accessible in rural areas, such as India and parts of China, where it is possible that DSCs could be made locally, removing the necessity of shipping in large numbers of silicon-based cells.
+
+Either way, with the prominent problem of global warming, any new green energy technologies are certainly worth considering. Who knows? Maybe raspberry based electricity is all the world needs.</div>

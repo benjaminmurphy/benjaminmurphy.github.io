@@ -1,0 +1,27 @@
+---
+layout: post
+title: Euromaidan and Kiev
+spoiler: On November 21st, Euromaidan began in Kiev, Ukraine. On that day, President Viktor Yanukovych stepped away from a fair trade agreement with the European Union, in large part because of pressure from Russia. In August of last year, Russia halted most imports from Ukraine in protest of the proposed trade act. Public opinion on both the trade act and the idea of joining the European Union are split in Ukraine, with many citizens believing that the act won't be beneficial to Ukraine's economy, and some even favoring joining the Customs Union of Belarus, Kazakhstan and Russia, a holdover from the Soviet Union. Both the trade act and the idea of joining the European Union are heavily favored by college-aged students, a major demographic of the original set of protesters.
+---
+
+<div class="title-div">
+    <p class="title-p">Euromaidan and Kiev</p>
+    <p class="date-p">February 21, 2014</p>
+</div>
+
+<div class="content-div">On November 21st, Euromaidan began in Kiev, Ukraine. On that day, President Viktor Yanukovych stepped away from a fair trade agreement with the European Union, in large part because of pressure from Russia. In August of last year, Russia halted most imports from Ukraine in protest of the proposed trade act. Public opinion on both the trade act and the idea of joining the European Union are split in Ukraine, with many citizens believing that the act won't be beneficial to Ukraine's economy, and some even favoring joining the Customs Union of Belarus, Kazakhstan and Russia, a holdover from the Soviet Union. Both the trade act and the idea of joining the European Union are heavily favored by college-aged students, a major demographic of the original set of protesters.
+
+For a little over a week, the protests were mainly peaceful, and even enjoyable. A short list of requests was created by the leaders of the protest:
+
+Form a coordinating committee to communicate with the European community.
+To state that the president, parliament and the Cabinet of Ministers aren't capable of carrying out a geopolitically strategic course of development for the state and calls on Yanukovych's resignation.
+Demand the cessation of political repressions against EuroMaidan activists, students, civic activists and opposition leaders
+On November 30th, riot police forcefully broke up a protest, sparking a strong reaction in Kiev. Soon thereafter, protesters had set up a permanent occupation in the main square of Kiev, and clashes with police and political forces began.
+
+In the main square of Kiev, protesters set up barricades crossing major roads, and took over some local buildings, including government offices, hotels and more. From there, it went downhill. Protesters utilized flaming barricades to keep their position in the square, resulting in many buildings taking fire damage. Police presence increased, and response to the protests became increasingly violent. All the while, there was little response from the government to humanitarian concerns. National leaders including United Nations representatives, Vice President Joe Biden and Secretary of State John Kerry have all contacted President Yanukovych to express concerns over the government response to the protest.
+
+In the past week, the conflict has turned deadly. More than sixty people have been killed from gunfire from government forces, and even more have died in building fires. Deaths haven't solely been on the side of the opposition; several police officials have been killed in fighting, and over sixty more are being held hostage by the opposition. Fighting has progressed so far that many are now calling the conflict a civil war.
+
+On Friday morning, President Yanukovych signed an agreement with the opposition forces, and the Parliament voted to release Yulia Tymoshenko, the last president of Ukraine and a vocal critic of the current president, from prison. In addition, the Parliament signed an agreement reverting the Constitution to prior revision, which reduces the powers of the president's office significantly. Vitaliy Zakharchenko, the Minister of the Interior and a major proponent of violence against protesters, was dismissed from his post by the Parliament. Finally, they voted to give unconditional amnesty to all protest participants, including those in custody, assuaging the concerns of humanitarian groups.
+
+Events are still developing in Kiev. Russia refused to sign the agreement between the president and the opposition, signaling that they will continue to fight the government of Ukraine. Many protesters believe that the Euromaidan will only be complete with the resignation of President Yanukovych. However, this is a promising first step, and will hopefully reduce the violence in the streets of Kiev. Now, the question is whether the government will return to the trade act they backed away from in November, and how much power will be lost by the president. Nevertheless, the government took the high road and made the right decision. Had they decided to stick with Russia and ignore the advice of most of the western world, Ukraine could easily have devolved into a situation like Syria, which is embroiled in a many year civil war.</div>

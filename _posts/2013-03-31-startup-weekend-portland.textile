@@ -1,0 +1,24 @@
+---
+layout: post
+title: Startup Weekend: Portland
+spoiler: Last weekend, I participated in Startup Weekend: Portland. Startup Weekend is a weekend-long “business incubator”. You come in with an idea, barely refined, and give a 60-second pitch to a room full of developers, designers, engineers, what have you. After all the pitches, teams form around the most popular ideas, and they get to work. You work for approximately 24 hours over three days, with coaches, successful businesspeople and advisors wandering around, and at the end, you come out with a functioning model for a business.
+---
+
+<div class="title-div">
+    <p class="title-p">Startup Weekend: Portland</p>
+    <p class="date-p">March 31, 2013</p>
+</div>
+
+<div class="content-div">
+Last weekend, I participated in Startup Weekend: Portland. Startup Weekend is a weekend-long “business incubator”. You come in with an idea, barely refined, and give a 60-second pitch to a room full of developers, designers, engineers, what have you. After all the pitches, teams form around the most popular ideas, and they get to work. You work for approximately 24 hours over three days, with coaches, successful businesspeople and advisors wandering around, and at the end, you come out with a functioning model for a business. You pitch to a group of judges, and then the top 3 businesses are picked, and given resources to help them future their startup. This was my first experience with the organization, and it was also the first weekend held in Maine. I went in with only a rough idea for a pitch; I was planning to talk about the rising cost of college and high school textbooks and how we needed a website for experienced people to write textbooks and then give them away, open-source style. However, after listening to some of the forty-odd pitches given that night, I decided I’d prefer to join another team rather than start my own. In the end, after much deliberation, I ended up on a 7-person team, Goals with Friends.
+
+ 
+The “idea person” for GWF described her vision as a “Nike Fitness for your life”. For those who aren’t familiar with Nike Fitness, you can check out their assortment of products here. Our goal was to design a mobile application that provided a platform for friends to work together in achieving their goals, whether flossing more, drinking less coffee or going to the gym an extra hour each week. We were a very diverse group - we had three developers, a designer, two marketing and business people and then the team leader. I won’t go through every detail of the weekend, but it was very intense. We worked for about two hours on Friday night, after the pitches were over, and then from 9 AM to 11 PM on Saturday. On Sunday, we again started at 9, and we wrapped up at 5, just in time for dinner and the final presentations. 
+ 
+We came out of the weekend with a functioning demo of our final project (my contribution), a business plan, logo, advertising and an initial audience for our demo product. Our presentation to the judges was fluid - we weren’t asked any questions we couldn’t answer, and we had a strong short-term plan. After listening to all nine teams present their work, I couldn’t call a winner. ChronoQuest offered self-guided walking tours of major cities with a time-travel twist. CareerMash.com provided college students for a platform to correlate future salaries with choices of major. CrashPad developed a system for college students to rent out their apartment over the summer to students who may be doing an internship in the area. 
+ 
+After a great deal of waiting, the first, second and third place winners were announced. In third was Community Bar, a pub that had a strong emphasis on giving back to the community. In second was ChronoQuest. And, drumroll, we took first! 
+ 
+All in all, Startup Weekend was an incredibly positive experience, and would have been even if we hadn’t won. I met some amazing people there, and got some great ideas. Five of our seven members were intent on going forward, and we just had our first meeting since SW earlier today. You can follow Goals with Friends on Twitter at @GoalswFriends.
+ 
+If you’re looking for a good way to spend a weekend, or if you want to take an idea that’s been rolling around in your head to market, see if there’s a Startup Weekend near you. You can learn more about the event at startupweekend.org.</div>

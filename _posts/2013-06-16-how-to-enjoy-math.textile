@@ -1,0 +1,22 @@
+---
+layout: post
+title: How to Enjoy Math
+spoiler: On Monday morning, the New York Times published an op-ed piece by Manil Suri, a math professor at the University of Maryland, entitled "How to Fall in Love With Math". In it, Suri discusses a common view of mathematics; that it is a tool, a means to an end, nothing more. He argues that this view is detrimental to fostering a love of math. After all, many of the truly elegant parts of math have few or no practical applications. Teaching math as a tool only, where everything is a step-by-step procedure to go from point A to point B, not only makes math seem uninteresting, it can actively discourage people from pursuing math as a career or hobby. 
+---
+
+<div class="title-div">
+    <p class="title-p">How to Enjoy Math</p>
+    <p class="date-p">September 16, 2013</p>
+</div>
+
+<div class="content-div">On Monday morning, the New York Times published an op-ed piece by Manil Suri, a math professor at the University of Maryland, entitled "How to Fall in Love With Math". In it, Suri discusses a common view of mathematics; that it is a tool, a means to an end, nothing more. He argues that this view is detrimental to fostering a love of math. After all, many of the truly elegant parts of math have few or no practical applications. Teaching math as a tool only, where everything is a step-by-step procedure to go from point A to point B, not only makes math seem uninteresting, it can actively discourage people from pursuing math as a career or hobby. 
+
+Bertrand Russell summed up the beauty of math perfectly: 
+
+"Mathematics, rightly viewed, possesses not only truth, but supreme beauty — a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as poetry."
+
+In the article, Suri discusses the moment of enlightenment when working on some new problem. He says "the realization is exhilarating - it lights up all the pleasure centers in the brain." I would liken the feeling to a mild form of fiero, a term used in game development to mean the feeling of conquest after winning. Although learning new kinds of math can be tiring and difficult, when the concept "clicks", it's a more powerful high than anything.
+
+My own experience with math has been mixed. I started, when I was five or six, with logic puzzles. Although not strictly math, I consider them the basis for most of my later explorations in the field. I learned arithmetic and pre-algebra like everyone else. However, I really became fascinated with math when I discovered competition math, and the high school math team. When I discovered that math could be social and fun, I was hooked.
+
+If you're in high school, I'd encourage you to explore both competition math, and elegant math, such as what's discussed in the article. If you're past school, but you'd like to understand math more, start your exploration by looking at the Wikipedia page on mathematical beauty, which has links to some of the most beautiful mathematical patterns, such as the Golden Ratio, the Fibonacci Numbers, and Euler's Identity.</div>

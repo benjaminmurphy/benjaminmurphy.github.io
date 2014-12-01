@@ -1,0 +1,23 @@
+---
+layout: post
+title: The Problems with Peer Grading
+spoiler: Currently, I'm a student in Social Psychology, an online MOOC through Coursera and Wesleyan University. According to Dr. Scott Plous, the primary teacher for the course, it is the largest course Coursera has ever hosted, with hundreds of thousands of students enrolled. I can completely understand why; social psychology is a fascinating and highly applicable field, and the design of the lectures is immaculate.
+---
+
+<div class="title-div">
+    <p class="title-p">The Problems with Peer Grading</p>
+    <p class="date-p">September 9, 2013</p>
+</div>
+
+<div class="content-div">
+Currently, I'm a student in Social Psychology, an online MOOC through Coursera and Wesleyan University. According to Dr. Scott Plous, the primary teacher for the course, it is the largest course Coursera has ever hosted, with hundreds of thousands of students enrolled. I can completely understand why; social psychology is a fascinating and highly applicable field, and the design of the lectures is immaculate.
+ 
+Dr. Plous has put a tremendous amount of work into the course. He has convinced publishers to grant students free access to top social psychology textbooks, obtained video segments from classic research like the Stanford Prison Experiment and Stanley Milgram's research on obedience, and produced top-notch lectures on a weekly basis. He even managed to come up with a special reward - if you complete all the weekly assignments, and achieve satisfactory grades, you are entered into a drawing for a weekend-long trip to Stanford University (all expenses paid), where you meet the Dalai Lama in person. Talk about overachieving, especially for a free online class. If he offers the course again in the future, I would enthusiastically recommend it to anyone interested in psychology.
+ 
+However, I have one critique of the class. For the weekly assignments, you are asked to analyze something with regards to social psychology. In week three, you examined Joe Chemo, an anti-smoking campaign. In week four, it was an online interview on your diet and lifestyle. For this week, you analyze your personal experiences while living a "Day of Compassion". In each of these, you are asked to write a short essay, which is then peer graded.
+ 
+In advance, Dr. Plous explicitly states that when grading the essays from other peers, you should not consider whether the English of the essay is proper, nor should you be too picky - after all, these aren't theses. Nevertheless, it's very hard to avoid becoming biased. In the five essays I graded, two were obviously from native English speakers. Aside from small grammar mistakes here and there, they were fine. However, the other three were from people where English was not their first language, as one of them stated in their essay. 
+ 
+As hard as I tried to remain a wholly objective grader, I was certainly influenced to grade those with better English more highly, both because it was easier to read, and because they could transmit their thoughts more easily. When rating an essay on, "How clear was the writing?", or "How logical were the conclusions?", speaking and writing English fluently is a massive boon.
+ 
+I think this is an issue with peer grading in general, and it certainly affects other people. I don't know of a good solution, but any professor starting a MOOC should be aware of the problems inherently present with peer grading, and should try to adjust their grading and syllabus to account for such.</div>

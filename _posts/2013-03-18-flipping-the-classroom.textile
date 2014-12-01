@@ -1,0 +1,27 @@
+---
+layout: post
+title: The Little Brown Bat: Flipping the Classroom: Three Major Obstructions
+spoiler: Flipping the classroom, a term often affiliated with Khan Academy, is thought by many to be the future of education. In a "flipped classroom", the teacher is supposed to spend as little time as possible lecturing, and instead maximize the amount of time spent interacting with students. It is generally associated with learning through technology, in order for students to spend their in-class time getting help or refining their knowledge.
+---
+
+<div class="title-div">
+    <p class="title-p">Flipping the Classroom: Three Major Obstructions</p>
+    <p class="date-p">March 18, 2013</p>
+</div>
+
+<div class="content-div">
+Flipping the classroom, a term often affiliated with Khan Academy, is thought by many to be the future of education. In a "flipped classroom", the teacher is supposed to spend as little time as possible lecturing, and instead maximize the amount of time spent interacting with students. It is generally associated with learning through technology, in order for students to spend their in-class time getting help or refining their knowledge. Khan Academy is a central component to many of these strategies - students can learn about most any topic in science and math alongside Sal Khan, and they can practice their knowledge using the built-in homework tools on the website. Flipping the classroom using Khan Academy has already seen success in some elementary classrooms in California. There certainly was no decrease in performance, and many students went above and beyond what was expected of them, learning advanced topics on their own. I would call these success stories, and I certainly believe that eventually, a majority of classrooms will be flipped. However, there are many major obstacles to overcome before we reach that milestone. Here, I discuss the challenges that I view as hardest to defeat.
+
+1. Learning at Home
+
+In the Bay Area of California, where the previously mentioned trial of flipping the classroom took place, the average family is much different than in, for example, rural Maine, where I live. In California, most, if not all students have access to a computer at home, making it a trivial matter to view the Khan Academy videos online at night. In addition, parents of children part of this experiment were likely well informed about the state of education, and what the change hoped to achieve. In many other locations, I think it is likely that many parents will be wary of flipping the classroom, if not downright opposed to it. Today's public school model has existed for decades, and it is a finely tuned model, if not an overly successful one. Such a drastic change in education would require parents and educators to understand the basis for the change, and to accept it. It would also require a huge investment in technology, so that families without regular access to a computer could afford to buy one.
+ 
+2. Teacher Training
+
+Although teacher education is significantly different now than it was even a decade ago, a flipped classroom is close to the opposite of a traditional classroom. Instead of practicing lecturing and understanding how to control a class, teachers would have to become experts at assisting, rather than leading. An educator would have to be able to explain a topic to a student who didn't understand the explanation on Khan Academy. A teacher would have to push students further in their learning, and would have to challenge them to explore new topics or to applying their knowledge in a new way. To overcome this obstacle, colleges and universities would have to change their education programs to accomodate the new classroom.
+ 
+3. Individualized Learning
+
+Today, the typical class moves only as fast as its slowest student, a trait which prevents industrious or curious students to investigate more deeply as part of school. A side effect of flipping the classroom is that some students would inevitably learn material more quickly than their classmates, and would then move on to more advanced material. Although I doubt many would openly admit to it, schools today actively hold back students in the name of "fairness". A change is certainly needed, but it would require a major change in the majority view of education. In order for flipped classrooms to become ubiquitous, we must first convince educators that homogenizing learning is detrimental, instead of beneficial.
+ 
+Between online higher education and the flipped classroom, education is in a period of rapid change. Khan Academy represents the future of the classroom, and I think most of us would agree that it is a step up from what we have in the present. Hopefully, the obstacles I presented here are not as major as I believe they are, and a decade or two down the road, the classroom is completely redesigned.</div>

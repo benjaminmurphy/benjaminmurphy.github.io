@@ -1,0 +1,21 @@
+---
+layout: post
+title: Teaching Scratch
+spoiler: Over the past week, I've been busy teaching the basics of Scratch as part of the Learning Opportunities for Our Kids (LOOK) program. My class had eight students, ranging from eight to twelve years old, with different levels of ability. One student was already a very experienced Scratcher, a couple had seen the program before, but most were brand new to it. In this article, I'd like to briefly talk about some of my experiences with the class.
+---
+
+<div class="title-div">
+    <p class="title-p">Teaching Scratch</p>
+    <p class="date-p">July 21, 2013</p>
+</div>
+
+<div class="content-div">
+Over the past week, I've been busy teaching the basics of Scratch as part of the Learning Opportunities for Our Kids (LOOK) program. My class had eight students, ranging from eight to twelve years old, with different levels of ability. One student was already a very experienced Scratcher, a couple had seen the program before, but most were brand new to it. In this article, I'd like to briefly talk about some of my experiences with the class.
+
+First and foremost, I can't overstate how important understanding the idea of an algorithm is to learning how to program. Initially, I likened programming to cooking - there's a precise order everything has to be done in, and every step has to be very specific. You can't just say, "Add some eggs", you instead say, "Add three large brown eggs". In order to drive this concept home, the kids had to order a "robot" (in this case, a person) to pick up a tennis ball on a table on the opposite side of the room, step-by-step.
+
+Second, understanding that a program has to be repeatable is very, very important. Many students, throughout the week, would simply drag their sprites back to their starting positions, rather than putting in one "go to" block at the start. I feel that I should have emphasized this point more strongly. At the end-of-week presentations, I had no clue how to set up some programs for the demonstration, a problem I am going to try and rectify this week.
+
+Finally, Minecraft! On Monday, the first day of class, half of the eight students asked me to find them a bunch of Minecraft graphics that they could use to make programs. At the end of the week, these four students had made many very impressive programs involving quizzes, mazes, stories and even some adventure games. In my opinion, having a specific genre to work in gave them ideas, and the ability to visualize exactly what they wanted their program to do. Now, Minecraft is only one example of this. I'm sure many other games, movies or animations would work perfectly fine as animation, but having ready-made idea is great when you're just starting to learn how to program.
+
+Now, I'm off to prepare for the next week of Scratch. Hopefully, I'll have another wonderful group of students like week one!</div>

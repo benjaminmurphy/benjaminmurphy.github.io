@@ -1,0 +1,20 @@
+---
+layout: post
+title: Why I'm Not Opposed to the NSA's Data Collection
+spoiler: It has been almost a year since NSA contractor Edward Snowden first leaked confidential documents to the Guardian and the New York Times. His disclosures have had immense effect on both policy and public debate in the country, and have led to an overhaul of the NSA's data collection rules headed up by President Obama. Serious reforms have been put in place, such as reducing the scope of phone metadata collection, and requiring the approval of a security court before accessing the vast trove of phone data records available to them.
+---
+
+<div class="title-div">
+    <p class="title-p">Why I'm Not Opposed to the NSA's Data Collection</p>
+    <p class="date-p">April 14, 2014</p>
+</div>
+
+<div class="content-div">It has been almost a year since NSA contractor Edward Snowden first leaked confidential documents to the Guardian and the New York Times. His disclosures have had immense effect on both policy and public debate in the country, and have led to an overhaul of the NSA's data collection rules headed up by President Obama. Serious reforms have been put in place, such as reducing the scope of phone metadata collection, and requiring the approval of a security court before accessing the vast trove of phone data records available to them.
+
+Politicians and citizens on both sides of the aisle were outraged at the surveillance programs unveiled by Snowden, and in the past year, discussions on the matter have taken a fair amount of Congress's time. And yet, there are people, myself included, who aren't remotely upset by the data collection. I consider myself a liberal with a social libertarian streak, yet I wasn't upset with the idea that a government agency could be examining my phone records without my knowledge. Why?
+
+In essence, we live in a data-driven world. Data on every aspect of our online life is recorded by online companies, like Facebook and google, by service providers like Verizon or U.S. Cellular, and by government agencies. It's a new online paradigm, and it's a permanent change. We can't remove information on who we are from the world. Now, we must ask the question, why shouldn't we allow the government full access to this data?
+
+It comes down to a matter of trust. I choose to have a certain level of trust in our government. I believe that, despite their many flaws, they are working in the best interest of the country, and there aren't nefarious schemes at work behind the scenes. I couldn't say as much about most private companies, which are certainly using my information to market to me. If I trust that the government is working in my best interest, I see no reason to deny them access to my data. If our data collection ability allows us to thwart even one terrorist plot, it will be worth it.
+
+Plenty of counterarguments to my case exist, and this debate will continue for a while. In the future, were another 9/11-level event to occur, I think the national opinion on data collection will shift. Americans will want to take any precautions that might prevent a repeat of this event. Until then, we will undoubtedly continue to restrict the NSA's ability to do their job, and keep us safe.</div>

@@ -1,0 +1,20 @@
+---
+layout: post
+title: We Need a Better Way
+spoiler: Today marks the deadliest day of the ongoing conflict between Israel and Hamas. One hundred people were killed today, including thirteen Israeli soldiers, and tens of innocent Palestinian civilians. Israel also began flooding the streets with leaflets instructing refugees to leave two packed camps in Gaza, Al-Bureij and Al-Maghazi. But as Israel continues its offensive, there simply isn't enough room for everyone in Gaza to be safe.
+---
+
+<div class="title-div">
+    <p class="title-p">We Need a Better Way</p>
+    <p class="date-p">July 21, 2014</p>
+</div>
+
+<div class="content-div">Today marks the deadliest day of the ongoing conflict between Israel and Hamas. One hundred people were killed today, including thirteen Israeli soldiers, and tens of innocent Palestinian civilians. Israel also began flooding the streets with leaflets instructing refugees to leave two packed camps in Gaza, Al-Bureij and Al-Maghazi. But as Israel continues its offensive, there simply isn't enough room for everyone in Gaza to be safe.
+
+We have to stop the killing of innocent civilians in Gaza. It's easy to justify the violence - Israel and Palestine/Hamas are at war, after all. But this is a conflict that has been raging for decades, and will likely to continue for decades more. Killing civilians now will only inflame the public against Israel, making a remotely peaceful solution less and less likely.
+
+Israel has stated that they are targeting Hamas, and associated military infrastructure. Hamas has cleverly set up rocket launchers and other military equipment in and amongst residential areas, i.e., using Gazans as human shields. Should Israel blow up one of these sites and kill civilians, Hamas uses it as a publicity stunt to stir up support for their campaign.
+
+We cannot continue like this. No matter how many rocket launchers and smuggling tunnels we destroy, there will always be more. If Israel is serious about removing Hamas from Gaza, they cannot go about it with missiles. It will require troops on the ground, in the streets, searching out weaponry and tunnels, and destroying it with a minimal loss of Palestinian life.
+
+We can stop this flood of innocent blood, but it will require a new vision for the Israeli role in their invasion of Gaza. Our current state is not sustainable; not for Israel, nor for Gaza. Israel has to commit to maintaining minimal losses of life, while still achieving their goals in the region.</div>

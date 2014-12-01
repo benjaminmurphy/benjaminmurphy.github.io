@@ -1,0 +1,22 @@
+---
+layout: post
+title: Should You Learn Computer Programming?
+spoiler: Ever since the explosion of online education websites, such as Khan Academy, there has been a strong push to teach every student how to program. Perhaps the largest movement so far is Code.org, which prominently features a video with celebrities such as Bill Clinton, will-i-am and Mark Zuckerberg talking about why learning to program is important. I agree - programming can be a very useful skill, and unlike most other sectors of the economy, there is a large demand for people with degrees in computer science. However, is learning to write lines of code that, for example, prime factorize some number an end in itself?
+---
+
+<div class="title-div">
+    <p class="title-p">Should You Learn Computer Programming?</p>
+    <p class="date-p">April 24, 2013</p>
+</div>
+
+<div class="content-div">Ever since the explosion of online education websites, such as Khan Academy, there has been a strong push to teach every student how to program. Perhaps the largest movement so far is Code.org, which prominently features a video with celebrities such as Bill Clinton, will-i-am and Mark Zuckerberg talking about why learning to program is important. I agree - programming can be a very useful skill, and unlike most other sectors of the economy, there is a large demand for people with degrees in computer science. However, is learning to write lines of code that, for example, prime factorize some number an end in itself? I don't believe so.
+
+I've been involved in programming since I was six or seven. I started with Scratch, the block-based language from the MIT Media Lab. I then tried C++ and Java, before settling on Python. Last year, I began working on iOS development, which uses Objective-C. Recently, I began teaching myself web development through Codecademy. When I began learning the basic tenets of programming with Scratch, I did so by making simple games. Or stories. Or puzzles. To put it succinctly, everything I made had cool pictures, was interactive and looked polished, at least to my seven year-old self. Scratch is a fabulous language to that end, as every program you make has to involve some sort of graphics component. However, most languages are not like that.
+
+Many people tout the accessibility of Python as a first programming language. I agree - compared with other object-oriented languages, Python is simpler, both syntax and abstractness-wise. But with Python, at least for a beginner, nothing you make is visual. Every program runs in a text format, sort of like a Command Line or Terminal, where the program can print things out, and you can input values, but no images appear, or sound, or anything remotely interesting! To create a window on the screen, it will likely take over fifty lines of code, which will involve a semi-obscure module known as TkInter. So why start people off with a language that is, well, boring?
+
+Over time, many programming languages have arisen that put the visual aspect first, such as Scratch, Alice and Processing (Processing is 50% Java, 50% visual). To the student who is looking to become a programmer, and maybe go on to a career in computer science, I urge you: Start with one of these languages! If I had started my computer science journey with Python, C++ or Java, I'm sure I wouldn't be where I am today.
+
+To be fair, many schools use Scratch, and to a lesser extent, Alice. But many schools do not teach programming at all, including my local high school, and there are undoubtedly many students in those schools who want to make a game, or send an interactive birthday card to a friend (My best friend and I have been doing this for several years). Code.org has links to many resources, including Scratch and Khan Academy, which uses Processing and later, Java.
+
+So, to answer the question in the title, yes. However, learn programming the right way, and don't do something boring! If you're an experienced programmer, and you didn't use Scratch or another visual language, congratulations. You toughed it out, and now you can do cool stuff with the hard languages. But if a friend of yours wants to learn how to program, don't tell them to start with Python, Ruby, Java or C. Send them to Scratch, and have them make a cat say "Hello World". Then let them go from there.

@@ -1,0 +1,25 @@
+---
+layout: post
+title: Lengthening School Days - Good or Bad?
+spoiler: The New York Times recently published a discussion page focusing on whether kids should spend more time at school, and if so, how that time should be spent. Most of the contributors agreed that there are things missing from every school day, but what those elements are is the real question.
+---
+
+<div class="title-div">
+    <p class="title-p">Lengthening School Days - Good or Bad?</p>
+    <p class="date-p">September 27, 2011</p>
+</div>
+
+<div class="content-div">
+The New York Times recently published a discussion page focusing on whether kids should spend more time at school, and if so, how that time should be spent. Most of the contributors agreed that there are things missing from every school day, but what those elements are is the real question.
+
+Some authors supported increasing time for physical education, the arts, and for younger students, naptime. These activities are often the first to go in budget cuts, they argue, and they are vitally important to the success of a child at school. With an obesity epidemic rising among children, time for exercise is paramount - yet we cut it. The arts promote creative thinking in students, something that is uncommon nowadays because of the "teaching to the test" phenomenon. Teachers are forced to spend all their time preparing students for standardized tests, leaving no time for the creative activities which never appear on exams. Sleep is also vital to academic success, as many studies have shown. Lack of sleep can reduce attentiveness, and amplify behavior problems.
+
+Other writers argued that it is not extra time that matters so much as making the most of the time we already have. KIPP schools are rapidly working on this problem, one author writes. Inside a KIPP school, there is a sense of urgency; a rush to get things done. From my past experiences, public schools don't have that feel. Often, advanced students will not be challenged by their classes - instead, they are waiting for their less prepared classmates to catch up. This is no fault of the students, however. In a class with a range of ability, schools focus on the less prepared, rather than challenging the students ready for new material. Perhaps we do not need extra time so much as we need to make the time students spend in school valuable for them, whether by offering alternative subjects, by allowing teachers to teach how and what they want, or by separating classes by ability.
+
+In my opinion, all these points are valid. If we try to accomplish too many things though, nothing will ever get done. By selecting one or two points, we stand a good chance of success. I believe that our best chance is to look at separating out classes, and reinstating physical education. Extending the length of days is certainly a controversial topic, and will take much debate. We do not have that time though, so we must pick less contentious issues.
+
+I have heard the argument that by not separating students based on ability, we are keeping schools 'fair'. To some, marking students as high or low achieving is a blow to their self confidence. What if it doesn't matter though? By separating students, we let teachers teach in a way specific to their class, and allow students to work in a more equal social environment.
+
+Physical education and recess are incredibly obvious needs in the school system. For many students, opportunities to learn about a healthy lifestyle are few and far between. Many parents haven't been trained or taught these principles either, making school the primary place for kids to learn good practices for a healthy lifestyle. In addition, many studies have shown exercise to improve mental function and help students focus, as well as waking them up if it is early morning.
+
+Agreeing on what to tackle first will take much debate. We need to move fast though - the future of our schools and children is at risk.</div>

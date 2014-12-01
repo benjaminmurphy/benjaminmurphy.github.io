@@ -1,0 +1,24 @@
+---
+layout: post
+title: Understanding Math
+spoiler: At my local public high school, math classes primarily consist of algebra and geometry, with few exceptions. Is this approach preparing our kids for the real world, and if not, how can it be fixed?
+---
+
+<div class="title-div">
+    <p class="title-p">Understanding Math</p>
+    <p class="date-p">January 13, 2012</p>
+</div>
+
+<div class="content-div">
+At my local public high school, math classes primarily consist of algebra and geometry, with few exceptions. The students who took algebra in the eighth grade take calculus in their senior year. Also, every student takes precalculus, which comprises topics in algebra, number theory and probability. Yet, a friend of mine who teaches high level geometry and calculus at the school frequently talks about how his calculus students cannot expand polynomials, such as (a+b) cubed. He has mentioned geometry students that can't find the slope of a line, or solve a quadratic equation, two things that are typically taught in algebra one. Despite countless hours spent in math classes, students seem to lose their grasp on the basics, which makes understand advanced concepts even more difficult.
+
+Why is this? I believe that the problem originates not in the difficulty of the material being taught, but in comprehension of the basics. For example, to understand algebra, you need a firm understanding of the fundamentals, such as simplification of equations. What are you doing when you simplify an equation? Students are frequently told to memorize something like, 'Isolate the variable'. To students, what does that really mean? I think that many students who have trouble in high school remember the phrase 'isolate the variable', but not why. Sure, isolating the variable is understandable when you're solving one variable, linear equations such as 4x+5 = 17, but the whole concept changes when you need to isolate the 'x' in 3xy + 4x = 5. This lack of understanding appears in many topics, such as factoring, the quadratic equation and coordinate geometry.
+ 
+To solve this problem, I think that one year of math in middle school should be devoted to number theory and probability topics - both of which are heavily applicable in real life. For example, understanding the likelihood of winning the lottery. The basics of algebra, and to some extent, geometry, can then be taught in the same fashion. If you use math skills in a real world situation, they will probably be retained longer. In addition, most students won't go on to pursue a math related career or degree. Why not teach them general math skills that will be useful in daily happenings?
+ 
+Another thing to remember is that everyone learns differently. Drawing graphs, equations and symbols on a whiteboard will work for some, and those are the students who excel in high school math and pass calculus with an A. For others, demonstrations or even hands-on work could make the topic 'click'. While it's hard to demonstrate the quadratic equation, it's always important to remember to explain it in as many different ways as necessary.
+ 
+As a final point, I have to protest teaching calculus to advanced seniors. While it is a fascinating topic to some, and has many applications, most students will never find a derivative or a limit again. Instead, why not delve into advanced algebra, number theory or any other more applicable topic? Any senior who enters a math related field will take three or more semesters of calculus in college, and many, if not most, colleges will not give the student credit for any high school calculus.
+ 
+While I'm targeting a single high school, I think many other public schools have these same problems. Fixing them would only require a change in curriculum, and it could result in a huge change for the better.  With the growing importance of math and science education, it could be vital to America's continued production of talented scientists, economists and entrepreneurs.</div>
+

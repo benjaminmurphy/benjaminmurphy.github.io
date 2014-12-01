@@ -1,0 +1,30 @@
+---
+layout: post
+title: Am I Multilingual?
+spoiler: On the MIT Admission Department's website, there is a list of qualifications that a high school senior
+applying to their school should have.
+---
+
+<div class="title-div">
+    <p class="title-p">Am I Multilingual?</p>
+    <p class="date-p">December 28, 2013</p>
+</div>
+
+<div class="content-div">On the MIT Admission Department's website, there is a list of qualifications that a high school senior
+applying to their school should have. Here's what they list:
+
+- One year of high school physics
+- One year of high school chemistry
+- One year of high school biology
+- Math, through calculus
+- Two years of a foreign language
+- Four years of English
+- Two years of history and/or social sciences
+
+Now, obviously, they're flexible if you don't meet everything on the list. However, a large portion of graduating, college-track seniors will have completed everything listed above, if not more. Physics, chemistry, biology, math, English, history, all typical. But what about "two years of a foreign language"? I used to study Japanese through Rosetta Stone, but without any local native speakers, it was just too hard to practice. So when I applied to MIT, I didn't meet that requirement. But wait! I've been a computer programmer since age six. Why doesn't that count?
+
+At the moment, I'm fluent in Objective-C, Python and Scratch, with experience in a bunch of other languages. Why is a programming language considered so different from a foreign language that it doesn't count for this requirement? I mean, you could make the argument that you don't really talk to anyone in Python, and that there's no country where Python is the national language. But Latin isn't really a spoken language, so why does it count? And although there may be no country named Pythonland, there is a devoted community of Pythonistas that is likely larger than some small countries.
+
+In this time, computer programming is becoming more and more mainstream, in part because of efforts by organizations like Khan Academy, Code.org and Codecademy. At the same time, at least for American students, foreign languages are becoming less and less necessary as English becomes the global language. So let's revise the standards, and add Python, Java, C, C++ and many more into the ranks of esteemed subjects like French, Spanish, Chinese and Latin.
+
+print("It's the twenty-first century. \n Let's start talking like it is.")</div>

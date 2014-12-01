@@ -1,0 +1,24 @@
+---
+layout: post
+title: My Gap Year
+spoiler: When I received a letter from Brown last May offering me a position in the Class of 2018, I was both incredibly excited, and worried. I had been accepted to my dream school, but I had a year to fill before I matriculated. I figured that I would just continue my usual homeschooling path, but with a bit more freedom. My tentative plan included the local math team, writing my blog, developing applications for iPhone and iPad, and learning how to use Photoshop and Illustrator. I was definitely nervous about filling my time, and disappointed about not receiving an offer for the Class of 2017.
+---
+
+<div class="title-div">
+    <p class="title-p">My Gap Year</p>
+    <p class="date-p">June 29, 2014</p>
+</div>
+
+<div class="content-div">I wrote this essay to a Brown admission officer earlier this month and liked it, so I'm posting it here.
+
+When I received a letter from Brown last May offering me a position in the Class of 2018, I was both incredibly excited, and worried. I had been accepted to my dream school, but I had a year to fill before I matriculated. I figured that I would just continue my usual homeschooling path, but with a bit more freedom. My tentative plan included the local math team, writing my blog, developing applications for iPhone and iPad, and learning how to use Photoshop and Illustrator. I was definitely nervous about filling my time, and disappointed about not receiving an offer for the Class of 2017.
+
+Fast-forward thirteen months, and here I am today. My year turned out very different than I had planned, but it was a thoroughly enjoyable time, and I’m glad that Brown gave me the opportunity to take a gap year. Some of my academic plan was accurate - I did participate in the math team, and I’m still writing my blog, which is now located on a fancy new WordPress website. But I came across other opportunities that I could never have expected. I taught introductory computer science and math to a local group of homeschooled students for six and a half months, culminating in April. I worked with my startup business to secure funding and develop a mobile application. I became interested in photography, and I have since spent many days scouring my rural home for good macro shots. I started writing a novel as part of National Novel Writing Month. And in December, upon meeting my Early Decision classmates, I partnered up with three of them to work on a social network for Brown students.
+
+Recently, I finished calculus from the Art of Problem Solving, encompassing first, second and half of third semester college calculus. I also orchestrated a celebration for my math coach, Allen Gerry, who has coached the local math team for over forty years, and led the team to countless national and state titles, including more than ten state championships in a row. I tracked down alumni from across the country, planned a dinner, and created an elaborate thank-you video. I have also been recording a YouTube series on introductory computer programming, and teaching myself web development.
+
+Looking back, I think my gap year gave me a great opportunity to go beyond traditional academics. Up until last spring, my sole focus in school was working to get accepted to college. I took the hardest classes, studied for standardized tests, and wrote many iterations of essays. Over the past year, I’ve been able to do activities completely unrelated to traditional school. These experiences have made me a more well-rounded person, with a wider range of interests, and a better perspective on my goals for when I enter Brown this fall.
+
+If I had one piece of advice to offer to a student who was offered a “surprise” gap year like I was, it’s this:
+
+Throw your preconceived notion of school out the window. For one year, you’re done with school. Pick something you’re passionate about, and dive into it. And then do it again, for something else. And so on. You have been given the rare gift of a year with no expectations - you don’t need to get a 4.0 GPA, you don’t need to find a job, you don’t need to prepare for the SAT. Go and do everything you’ve always wanted to do, but have never had time for.</div>
