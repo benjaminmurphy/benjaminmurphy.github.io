@@ -1,0 +1,1 @@
+Created using GitHub Pages, Brackets, and a lot of StackOverflow. All content within the directories _posts/ and images/ are copyright Benjamin Murphy, and may not be used without my express permission. All other files and directories are MIT Licensed, and may be reused, with attribution.
