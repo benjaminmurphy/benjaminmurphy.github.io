@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Stand in the Fire
-spoiler: One gamer's experience with addition in World of wa
+spoiler: One gamer's experience with addition in World of Warcraft, and how it's not all bad.
 ---
 
 <div class="title-div">
