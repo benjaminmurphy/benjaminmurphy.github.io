@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Forget Silence
-spoiler: A security guard paces through Faunce House, shoulders draped in a neon yellow vest, listening to music as oblivious students pass him by. A couple sits on the Main Green, shrouded by darkness, reveling in their privacy like a child allowed to walk to the bus stop alone for the first time. A single janitor removes massive trash bags from Sayles Hall and brings them to the curb.
+spoiler: 
 ---
 
 <div class="title-div">
