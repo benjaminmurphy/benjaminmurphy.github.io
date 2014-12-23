@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Success in Three Steps
-spoiler: Amy Chua is a controversial figure. Several years ago, she wrote a book, Battle Hymn of the Tiger Mother, chronicling her experiences with Chinese parenting. Perhaps the most oft cited paragraph in the book is on the back cover: "Here are some things my daughters, Sophia and Louisa, where never allowed to do: Attend a sleepover Have a playdate...
+spoiler: 
 ---
 
 <div class="title-div">
