@@ -150,6 +150,7 @@ a.styled-link:hover {
 }
 
 .full-width {
+    width: 100%;
     min-width: 100%;
 }
 
@@ -166,6 +167,8 @@ a.styled-link:hover {
 
     box-shadow: 0 0 6px black;
     padding-right: 10px;
+    box-sizing: border-box;
+    margin: 0;
 }
 
 .footer {
