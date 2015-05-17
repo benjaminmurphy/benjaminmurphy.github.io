@@ -20,7 +20,7 @@ function scrollToContact() {
 
 function scrollToLinks() {
     $("body, html").animate({
-        scrollTop: contactHeader.offsetTop
+        scrollTop: linksHeader.offsetTop
     }, 300, function() {
         history.pushState({}, "Benjamin Murphy", "#links");
     });
