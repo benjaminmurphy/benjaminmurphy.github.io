@@ -6,7 +6,7 @@ function scrollToProject() {
     $("body, html").animate({
         scrollTop: projectHeader.offsetTop
     }, 300, function() {
-        history.pushState({}, "Benjamin Murphy, "#projects");
+        history.pushState({}, "Benjamin Murphy", "#projects");
     });
 }
 
@@ -14,7 +14,7 @@ function scrollToContact() {
     $("body, html").animate({
         scrollTop: contactHeader.offsetTop
     }, 300, function() {
-        history.pushState({}, "Benjamin Murphy, "#contact");
+        history.pushState({}, "Benjamin Murphy", "#contact");
     });
 }
 
@@ -22,6 +22,6 @@ function scrollToLinks() {
     $("body, html").animate({
         scrollTop: contactHeader.offsetTop
     }, 300, function() {
-        history.pushState({}, "Benjamin Murphy, "#links");
+        history.pushState({}, "Benjamin Murphy", "#links");
     });
 }
