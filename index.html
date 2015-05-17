@@ -1,57 +1,176 @@
-<!DOCTYPE html>
-
-<html>
-
+<!doctype html>
+<html class="no-js" lang="">
     <head>
-    
         <meta charset="utf-8">
-        <meta name="author" content="Benjamin Murphy">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
         <meta name="description" content="">
-        
-        <title>benjamin murphy</title>
-        
-        <link href="css/bootstrap.css" rel="stylesheet">
-        <link href="css/index.css" rel="stylesheet">
-        <link href="css/site_index.css" rel="stylesheet">
-        <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'> 
-    
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="static/css/normalize.css">
+        <link rel="stylesheet" href="static/css/bootstrap.min.css">
+        <link rel="stylesheet" href="static/css/main.css">
+        <script src="static/js/modernizr-2.8.3.min.js"></script>
     </head>
-    
     <body>
-        
-        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        
-            <div class="container-fluid">
-            
-                <p class="navbar-text" id="title-text">benjamin murphy</p>
-                
-                <ul class="nav navbar-nav navbar-right">
-                
-                    <li class="active"><a href="/">home</a></li>
-                    <li><a href="/about">about</a></li>
-                    <li><a href="/blog">blog</a></li>
-                    <li><a href="/photography">photography</a></li>
-                    
+        <!--[if lt IE 8]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+        <main>
+
+            <div class="row header full-width" id="about">
+                <img src="static/assets/profile.jpg">
+                <div class="title">Benjamin Murphy</div>
+                <div class="link"><a class="styled-link" href="javascript:scrollToLinks();">Links</a></div>
+                <div class="link"><a class="styled-link" href="javascript:scrollToContact();">Contact</a></div>
+                <div class="link"><a class="styled-link" href="javascript:scrollToProject();">Projects</a></div>
+            </div>
+
+            <div class="row centered left-border" id="description">
+                <p class="heavy">Hi.</p>
+                <p class="medium">I'm a developer, designer, and photographer based in Providence, Rhode Island.</p>
+                <p class="light">I believe that technology has an incredible power to make the world better.
+                    I see it as my job to create tools that improve the lives of others.</p>
+                <p class="extra-light">I'm a student at Brown University, where I study computer science and math, in addition to creative writing,
+                    political science, and cognitive science.<br><br> 
+                    I became a developer because I love watching thousands of lines of code on a screen turn into a
+                    real-world product. I started out with Python, then moved to iOS development with Objective-C, before arriving at full-stack web development.
+                    Today, I spend my time building web applications using frameworks like Angular, Express, Node, and Bootstrap. I also mess around with design
+                    work, using tools like Photoshop and Illustrator.<br><br>
+                    I've been part of two startups, and will be interning at MongoDB this summer.<br><br>
+                    In addition to writing code, I teach classes on coding and math at a local private school, online, and for afterschool enrichment programs. I
+                    love good food (especially coffee), ultimate frisbee, reading, discussing politics, and gaming. Oh, and I can juggle. 
+                </p>
+            </div>
+
+            <div class="row header full-width" id="projects">
+                <div class="title">What I Do</div>
+            </div>
+
+            <div class="row centered" id="project-body">
+                <center>
+
+                    <table>
+                        <tr>
+                            <td>
+                                <div>
+                                    <a href="https://www.mongodb.org/"><img src="static/assets/mongodb.jpeg"></a>
+                                </div>
+                                <p>
+                                    Software Engineering Intern<br>
+                                    <i>Summer 2015</i><br>
+                                    I will be interning on the Education Team at the New York City office, working to update
+                                    <a href="https://university.mongodb.com/">MongoDB University</a>.
+                                </p>
+                            </td>
+                            <td>
+                                <div>
+                                    <a href="http://www.brewerapp.com"><img src="static/assets/brewerlogo.png"></a>
+                                </div>
+                                <p>
+                                    Co-Creator<br>
+                                    <i>Spring 2015</i><br>
+                                    Brewer is an online block-based programming language based in Java, and is 
+                                    perfect for beginning programmers.
+                                </p>
+                            </td>
+                            <td>
+                                <div>
+                                    <a href="http://www.artofproblemsolving.com/"><img src="static/assets/aops.svg"></a>
+                                </div>
+                                <p>
+                                    Class Assistant and Grader<br>
+                                    <i>2014 - Present</i><br>
+                                    I assist with classes such as Geometry, Probability and Counting, and Number Theory on a weekly basis.
+                                </p>
+                            </td>
+                            <td>
+                                <div>
+                                    <a href="https://www.wheelerschool.org/"><img src="static/assets/wheeler.jpeg"></a>
+                                </div>
+                                <p>
+                                    Aerie Instructor<br>
+                                    <i>2014 - Present</i><br>
+                                    I teach linear algebra and abstract algebra to advanced high school students daily.
+                                </p>
+                            </td>
+                            <td>
+                                <div>
+                                    <a href="https://www.brown.edu"><img src="static/assets/brown.jpg"></a>
+                                </div>
+                                <p>
+                                    Computer Science and Math<br>
+                                    <i>Class of 2018</i><br>
+                                    GPA: 3.83 out of 4.0<br>
+                                    Additional areas of study include education, political science, and cognitive science.
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </div>
+
+            <div class="row header full-width" id="contact">
+                <div class="title">Contact Me</div>
+            </div>
+
+            <div class="row centered" id="contact-body">
+                <p class="medium">
+                    I'm always interested in development work, both for startups and for established companies. If you're just starting out with coding, I'd love to point you towards some resources. You can contact me at <a href="mailto:benjamin_murphy@me.com">benjamin_murphy@me.com</a>. You can also find me in a number of other places, listed here:</p>
+
+                <ul class="light">
+                    <li>You can find a selection of my photography <a href="https://500px.com/benjamin_murphy">on 500px.</a></li>
+                    <li><a href="http://www.quora.com/Ben-Murphy-34">I answer questions on Quora</a> about politics, introductory computer science,
+                        and being a student.</li>
+                    <li><a href="http://stackoverflow.com/users/1163858/benjamin-murphy">I occasionally answer StackOverflow questions</a>.</li>
+                    <li><a href="https://github.com/benjaminmurphy">Code for some of my projects.</a></li>
+                    <li><a href="https://twitter.com/benjaminmmurphy">@benjaminmmurphy</a></li>
+                    <li><a href="https://www.linkedin.com/pub/benjamin-murphy/97/494/162">My LinkedIn page.</a></li>
+                    <li><a href="/assets/resume.pdf">My résumé.</a></li>
                 </ul>
-            
             </div>
-            
-        </nav>
-        <div class="container-fluid">
-            <div class="col-md-10 col-md-offset-1" id="background-div">
-                
-                <h1><b>photographer.<br>developer.<br>teacher.<br>writer.</b></h1>
-                
+
+            <div class="row header full-width" id="links">
+                <div class="title">Other Links</div>
             </div>
-        </div>
-        
-        <div id="footer">
-            <p id="footer-p">Written by Benjamin Murphy. <a href="https://github.com/benjaminmurphy/benjaminmurphy.github.io">GitHub source.</a> Copyright 2014. Some rights reserved.</p>
-        </div>
-        
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="js/bootstrap.js"></script>
-        
+
+            <div class="row centered" id="links-body">
+                <ul class="light">
+                    <li><a href="https://education.github.com/pack">A great resource for computer science students.</a></li>
+                    <li><a href="http://www.cheetyr.com/home">For when you can't remember that CSS rule...</a></li>
+                    <li><a href="http://www.regexr.com/">Outstanding RegEx tester.</a></li>
+                    <li><a href="http://www.bootstrapworld.org/">A great programming curriculum I briefly helped with.</a></li>
+                    <li><a href="http://www.ted.com/talks/steve_jobs_how_to_live_before_you_die">Inspiring speech by one of Silicon Valley's greatest.</a></li>
+                    <li><a href="https://medium.com/@paulhershey/user-experience-for-product-designers-e9fa621ce3bc">Design process for non-designers.</a></li>
+                    <li><a href="http://caniuse.com/">Because Internet Explorer just screws everything up.</a></li>
+                </ul>
+            </div>
+
+        </main>
+
+        <footer>
+
+            <div class="row footer full-width">
+                <p>&copy; 2015 Benjamin Murphy. View website source <a href="https://github.com/benjaminmurphy/benjaminmurphy">on GitHub</a>.</p>
+            </div>
+
+        </footer>
+
+        <script src="static/js/jquery-2.1.3.min.js"></script>
+        <script src="static/js/bootstrap.min.js"></script>
+        <script src="static/js/main.js"></script>
+
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+                                                                    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+                                   e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+                                   e.src='//www.google-analytics.com/analytics.js';
+                                   r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-61467451-1','auto');ga('send','pageview');
+        </script>
     </body>
-    
 </html>
