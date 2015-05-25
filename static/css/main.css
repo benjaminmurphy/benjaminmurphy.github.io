@@ -99,11 +99,41 @@ Author's custom styles
     #about {
         background-size: auto 100%;
     }
+    
+    #about img {
+        display: none;
+    }
+    
+    #description {
+        margin-top: 60px;
+    }
+    
+    .nav-wrapper {
+        float: none;
+        margin: 0 calc(50% - 200px);
+        text-align: center;
+    }
+    
+    div.link {
+        float: none;
+    }
 }
 
 @media (min-width: 720px) {
     #about {
         background-size: 100% auto;
+    }
+    
+    #about img {
+        display: block;
+    }
+    
+    #description {
+        margin-top: 30px;
+    }
+    
+    .nav-wrapper, div.link {
+        float: right;
     }
 }
 
@@ -118,6 +148,19 @@ Author's custom styles
         background-size: 100% auto;
     }
 }
+
+@media (max-width: 850px) {
+    div.title {
+        font-size: 36px;
+    }
+}
+
+@media (min-width: 850px) {
+    div.title {
+        font-size: 48px;
+    }
+}
+
 
 @font-face {
     font-family: Avenir;
@@ -181,6 +224,10 @@ a.styled-link:hover {
     box-shadow: 0 0 6px black;
 }
 
+.nav-wrapper {
+    width: 400px;
+}
+
 .heavy {
     font-size: 36px;
     font-weight: 500;
@@ -209,8 +256,9 @@ div.title {
     position: relative;
     top: 225px;
     left: calc(50% - 250px);
+    
+    height: 80px;
 
-    font-size: 48px;
     font-weight: 700;
     text-align: center;
 
@@ -250,15 +298,14 @@ div.title {
 }
 
 div.link {
+    display: inline-block;
     position: relative;
     top: 230px;
     width: 100px;
     text-align: center;
-    padding-top: 16px;
 
     font-weight: 400;
     font-size: 16px;
-    float: right;
 
     color: #F7A927;
 }
