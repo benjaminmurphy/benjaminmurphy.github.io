@@ -310,6 +310,11 @@ div.link {
     color: #F7A927;
 }
 
+iframe {
+    width: 60vw;
+    height: 60vw;
+}
+
 .centered {
     width: 60%;
     margin-left: 20%;
